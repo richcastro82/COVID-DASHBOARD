@@ -1,0 +1,1741 @@
+﻿date,fips,state,county,score
+12/21/2020,6001,CA,Alameda County,76.15
+12/20/2020,6001,CA,Alameda County,88.46
+12/19/2020,6001,CA,Alameda County,88.46
+12/18/2020,6001,CA,Alameda County,78
+12/17/2020,6001,CA,Alameda County,67.33
+12/16/2020,6001,CA,Alameda County,63
+12/15/2020,6001,CA,Alameda County,67.33
+12/14/2020,6001,CA,Alameda County,67.33
+12/13/2020,6001,CA,Alameda County,67.33
+12/12/2020,6001,CA,Alameda County,67.33
+12/11/2020,6001,CA,Alameda County,67.33
+12/10/2020,6001,CA,Alameda County,67.33
+12/9/2020,6001,CA,Alameda County,58
+12/8/2020,6001,CA,Alameda County,70.67
+12/7/2020,6001,CA,Alameda County,70.67
+12/6/2020,6001,CA,Alameda County,70.67
+12/5/2020,6001,CA,Alameda County,60
+12/4/2020,6001,CA,Alameda County,60
+12/3/2020,6001,CA,Alameda County,60
+12/2/2020,6001,CA,Alameda County,52.5
+12/1/2020,6001,CA,Alameda County,60
+11/30/2020,6001,CA,Alameda County,60
+11/29/2020,6001,CA,Alameda County,60
+11/28/2020,6001,CA,Alameda County,60
+11/27/2020,6001,CA,Alameda County,56.67
+11/26/2020,6001,CA,Alameda County,56.67
+11/25/2020,6001,CA,Alameda County,47.5
+11/24/2020,6001,CA,Alameda County,56.67
+11/23/2020,6001,CA,Alameda County,56.67
+11/22/2020,6001,CA,Alameda County,56.67
+12/21/2020,6003,CA,Alpine County,60
+12/20/2020,6003,CA,Alpine County,60
+12/19/2020,6003,CA,Alpine County,60
+12/18/2020,6003,CA,Alpine County,60
+12/17/2020,6003,CA,Alpine County,100
+12/16/2020,6003,CA,Alpine County,100
+12/15/2020,6003,CA,Alpine County,100
+12/14/2020,6003,CA,Alpine County,100
+12/13/2020,6003,CA,Alpine County,100
+12/12/2020,6003,CA,Alpine County,100
+12/11/2020,6003,CA,Alpine County,100
+12/10/2020,6003,CA,Alpine County,100
+12/9/2020,6003,CA,Alpine County,100
+12/8/2020,6003,CA,Alpine County,100
+12/7/2020,6003,CA,Alpine County,100
+12/6/2020,6003,CA,Alpine County,100
+12/5/2020,6003,CA,Alpine County,100
+12/4/2020,6003,CA,Alpine County,100
+12/3/2020,6003,CA,Alpine County,100
+12/2/2020,6003,CA,Alpine County,20
+12/1/2020,6003,CA,Alpine County,20
+11/30/2020,6003,CA,Alpine County,20
+11/29/2020,6003,CA,Alpine County,20
+11/28/2020,6003,CA,Alpine County,100
+11/27/2020,6003,CA,Alpine County,100
+11/26/2020,6003,CA,Alpine County,100
+11/25/2020,6003,CA,Alpine County,100
+11/24/2020,6003,CA,Alpine County,100
+11/23/2020,6003,CA,Alpine County,100
+11/22/2020,6003,CA,Alpine County,100
+12/21/2020,6005,CA,Amador County,69.23
+12/20/2020,6005,CA,Amador County,69.23
+12/19/2020,6005,CA,Amador County,71.15
+12/18/2020,6005,CA,Amador County,63
+12/17/2020,6005,CA,Amador County,63
+12/16/2020,6005,CA,Amador County,64.67
+12/15/2020,6005,CA,Amador County,64.67
+12/14/2020,6005,CA,Amador County,78
+12/13/2020,6005,CA,Amador County,88.46
+12/12/2020,6005,CA,Amador County,88.46
+12/11/2020,6005,CA,Amador County,78
+12/10/2020,6005,CA,Amador County,78
+12/9/2020,6005,CA,Amador County,81.33
+12/8/2020,6005,CA,Amador County,84
+12/7/2020,6005,CA,Amador County,81.33
+12/6/2020,6005,CA,Amador County,92.31
+12/5/2020,6005,CA,Amador County,96.15
+12/4/2020,6005,CA,Amador County,84.67
+12/3/2020,6005,CA,Amador County,74
+12/2/2020,6005,CA,Amador County,74
+12/1/2020,6005,CA,Amador County,74
+11/30/2020,6005,CA,Amador County,74
+11/29/2020,6005,CA,Amador County,90
+11/28/2020,6005,CA,Amador County,71.54
+11/27/2020,6005,CA,Amador County,63.33
+11/26/2020,6005,CA,Amador County,60
+11/25/2020,6005,CA,Amador County,60
+11/24/2020,6005,CA,Amador County,62.67
+11/23/2020,6005,CA,Amador County,60
+11/22/2020,6005,CA,Amador County,67.69
+12/21/2020,6007,CA,Butte County,92.31
+12/20/2020,6007,CA,Butte County,92.31
+12/19/2020,6007,CA,Butte County,80
+12/18/2020,6007,CA,Butte County,70.67
+12/17/2020,6007,CA,Butte County,70.67
+12/16/2020,6007,CA,Butte County,65.5
+12/15/2020,6007,CA,Butte County,60
+12/14/2020,6007,CA,Butte County,70.67
+12/13/2020,6007,CA,Butte County,70.67
+12/12/2020,6007,CA,Butte County,73.33
+12/11/2020,6007,CA,Butte County,70.67
+12/10/2020,6007,CA,Butte County,67.33
+12/9/2020,6007,CA,Butte County,63
+12/8/2020,6007,CA,Butte County,67.33
+12/7/2020,6007,CA,Butte County,67.33
+12/6/2020,6007,CA,Butte County,62
+12/5/2020,6007,CA,Butte County,59.33
+12/4/2020,6007,CA,Butte County,56.67
+12/3/2020,6007,CA,Butte County,56.67
+12/2/2020,6007,CA,Butte County,50
+12/1/2020,6007,CA,Butte County,59.33
+11/30/2020,6007,CA,Butte County,52.86
+11/29/2020,6007,CA,Butte County,59.33
+11/28/2020,6007,CA,Butte County,59.33
+11/27/2020,6007,CA,Butte County,56.67
+11/26/2020,6007,CA,Butte County,56.67
+11/25/2020,6007,CA,Butte County,50
+11/24/2020,6007,CA,Butte County,56.67
+11/23/2020,6007,CA,Butte County,56.67
+11/22/2020,6007,CA,Butte County,59.33
+12/21/2020,6009,CA,Calaveras County,88.46
+12/20/2020,6009,CA,Calaveras County,88.46
+12/19/2020,6009,CA,Calaveras County,88.46
+12/18/2020,6009,CA,Calaveras County,78
+12/17/2020,6009,CA,Calaveras County,67.33
+12/16/2020,6009,CA,Calaveras County,67.33
+12/15/2020,6009,CA,Calaveras County,67.33
+12/14/2020,6009,CA,Calaveras County,67.33
+12/13/2020,6009,CA,Calaveras County,76.15
+12/12/2020,6009,CA,Calaveras County,76.15
+12/11/2020,6009,CA,Calaveras County,67.33
+12/10/2020,6009,CA,Calaveras County,67.33
+12/9/2020,6009,CA,Calaveras County,67.33
+12/8/2020,6009,CA,Calaveras County,70
+12/7/2020,6009,CA,Calaveras County,67.33
+12/6/2020,6009,CA,Calaveras County,76.15
+12/5/2020,6009,CA,Calaveras County,76.15
+12/4/2020,6009,CA,Calaveras County,67.33
+12/3/2020,6009,CA,Calaveras County,56.67
+12/2/2020,6009,CA,Calaveras County,56.67
+12/1/2020,6009,CA,Calaveras County,59.33
+11/30/2020,6009,CA,Calaveras County,56.67
+11/29/2020,6009,CA,Calaveras County,63.85
+11/28/2020,6009,CA,Calaveras County,63.85
+11/27/2020,6009,CA,Calaveras County,56.67
+11/26/2020,6009,CA,Calaveras County,56.67
+11/25/2020,6009,CA,Calaveras County,59.33
+11/24/2020,6009,CA,Calaveras County,59.33
+11/23/2020,6009,CA,Calaveras County,59.33
+11/22/2020,6009,CA,Calaveras County,63.85
+12/21/2020,6011,CA,Colusa County,73.08
+12/20/2020,6011,CA,Colusa County,73.08
+12/19/2020,6011,CA,Colusa County,73.08
+12/18/2020,6011,CA,Colusa County,73.08
+12/17/2020,6011,CA,Colusa County,73.08
+12/16/2020,6011,CA,Colusa County,88.46
+12/15/2020,6011,CA,Colusa County,88.46
+12/14/2020,6011,CA,Colusa County,88.46
+12/13/2020,6011,CA,Colusa County,88.46
+12/12/2020,6011,CA,Colusa County,88.46
+12/11/2020,6011,CA,Colusa County,88.46
+12/10/2020,6011,CA,Colusa County,88.46
+12/9/2020,6011,CA,Colusa County,88.46
+12/8/2020,6011,CA,Colusa County,88.46
+12/7/2020,6011,CA,Colusa County,88.46
+12/6/2020,6011,CA,Colusa County,88.46
+12/5/2020,6011,CA,Colusa County,88.46
+12/4/2020,6011,CA,Colusa County,88.46
+12/3/2020,6011,CA,Colusa County,76.15
+12/2/2020,6011,CA,Colusa County,76.15
+12/1/2020,6011,CA,Colusa County,76.15
+11/30/2020,6011,CA,Colusa County,76.15
+11/29/2020,6011,CA,Colusa County,76.15
+11/28/2020,6011,CA,Colusa County,76.15
+11/27/2020,6011,CA,Colusa County,76.15
+11/26/2020,6011,CA,Colusa County,76.15
+11/25/2020,6011,CA,Colusa County,88.46
+11/24/2020,6011,CA,Colusa County,76.15
+11/23/2020,6011,CA,Colusa County,76.15
+11/22/2020,6011,CA,Colusa County,76.15
+12/21/2020,6013,CA,Contra Costa County,88.46
+12/20/2020,6013,CA,Contra Costa County,88.46
+12/19/2020,6013,CA,Contra Costa County,88.46
+12/18/2020,6013,CA,Contra Costa County,78
+12/17/2020,6013,CA,Contra Costa County,78
+12/16/2020,6013,CA,Contra Costa County,71
+12/15/2020,6013,CA,Contra Costa County,67.33
+12/14/2020,6013,CA,Contra Costa County,67.33
+12/13/2020,6013,CA,Contra Costa County,67.33
+12/12/2020,6013,CA,Contra Costa County,67.33
+12/11/2020,6013,CA,Contra Costa County,67.33
+12/10/2020,6013,CA,Contra Costa County,67.33
+12/9/2020,6013,CA,Contra Costa County,63
+12/8/2020,6013,CA,Contra Costa County,67.33
+12/7/2020,6013,CA,Contra Costa County,67.33
+12/6/2020,6013,CA,Contra Costa County,67.33
+12/5/2020,6013,CA,Contra Costa County,67.33
+12/4/2020,6013,CA,Contra Costa County,67.33
+12/3/2020,6013,CA,Contra Costa County,56.67
+12/2/2020,6013,CA,Contra Costa County,50
+12/1/2020,6013,CA,Contra Costa County,56.67
+11/30/2020,6013,CA,Contra Costa County,56.67
+11/29/2020,6013,CA,Contra Costa County,56.67
+11/28/2020,6013,CA,Contra Costa County,56.67
+11/27/2020,6013,CA,Contra Costa County,56.67
+11/26/2020,6013,CA,Contra Costa County,56.67
+11/25/2020,6013,CA,Contra Costa County,50
+11/24/2020,6013,CA,Contra Costa County,56.67
+11/23/2020,6013,CA,Contra Costa County,56.67
+11/22/2020,6013,CA,Contra Costa County,59.33
+12/21/2020,6015,CA,Del Norte County,73.08
+12/20/2020,6015,CA,Del Norte County,73.08
+12/19/2020,6015,CA,Del Norte County,73.08
+12/18/2020,6015,CA,Del Norte County,56.67
+12/17/2020,6015,CA,Del Norte County,56.67
+12/16/2020,6015,CA,Del Norte County,54
+12/15/2020,6015,CA,Del Norte County,56.67
+12/14/2020,6015,CA,Del Norte County,59.33
+12/13/2020,6015,CA,Del Norte County,73.08
+12/12/2020,6015,CA,Del Norte County,60.77
+12/11/2020,6015,CA,Del Norte County,54
+12/10/2020,6015,CA,Del Norte County,67.33
+12/9/2020,6015,CA,Del Norte County,67.33
+12/8/2020,6015,CA,Del Norte County,83.33
+12/7/2020,6015,CA,Del Norte County,83.33
+12/6/2020,6015,CA,Del Norte County,76.15
+12/5/2020,6015,CA,Del Norte County,88.46
+12/4/2020,6015,CA,Del Norte County,80.67
+12/3/2020,6015,CA,Del Norte County,70
+12/2/2020,6015,CA,Del Norte County,59.33
+12/1/2020,6015,CA,Del Norte County,62
+11/30/2020,6015,CA,Del Norte County,72.67
+11/29/2020,6015,CA,Del Norte County,76.15
+11/28/2020,6015,CA,Del Norte County,63.85
+11/27/2020,6015,CA,Del Norte County,67.33
+11/26/2020,6015,CA,Del Norte County,67.33
+11/25/2020,6015,CA,Del Norte County,70
+11/24/2020,6015,CA,Del Norte County,72.67
+11/23/2020,6015,CA,Del Norte County,62
+11/22/2020,6015,CA,Del Norte County,76.15
+12/21/2020,6017,CA,El Dorado County,88.46
+12/20/2020,6017,CA,El Dorado County,88.46
+12/19/2020,6017,CA,El Dorado County,88.46
+12/18/2020,6017,CA,El Dorado County,78
+12/17/2020,6017,CA,El Dorado County,78
+12/16/2020,6017,CA,El Dorado County,78.5
+12/15/2020,6017,CA,El Dorado County,78
+12/14/2020,6017,CA,El Dorado County,78
+12/13/2020,6017,CA,El Dorado County,67.33
+12/12/2020,6017,CA,El Dorado County,78
+12/11/2020,6017,CA,El Dorado County,78
+12/10/2020,6017,CA,El Dorado County,78
+12/9/2020,6017,CA,El Dorado County,71
+12/8/2020,6017,CA,El Dorado County,78
+12/7/2020,6017,CA,El Dorado County,67.33
+12/6/2020,6017,CA,El Dorado County,70
+12/5/2020,6017,CA,El Dorado County,80.67
+12/4/2020,6017,CA,El Dorado County,67.33
+12/3/2020,6017,CA,El Dorado County,67.33
+12/2/2020,6017,CA,El Dorado County,63
+12/1/2020,6017,CA,El Dorado County,67.33
+11/30/2020,6017,CA,El Dorado County,70.67
+11/29/2020,6017,CA,El Dorado County,73.33
+11/28/2020,6017,CA,El Dorado County,70.67
+11/27/2020,6017,CA,El Dorado County,70.67
+11/26/2020,6017,CA,El Dorado County,70.67
+11/25/2020,6017,CA,El Dorado County,52.5
+11/24/2020,6017,CA,El Dorado County,60
+11/23/2020,6017,CA,El Dorado County,60
+11/22/2020,6017,CA,El Dorado County,62.67
+12/21/2020,6019,CA,Fresno County,96.15
+12/20/2020,6019,CA,Fresno County,96.15
+12/19/2020,6019,CA,Fresno County,96.15
+12/18/2020,6019,CA,Fresno County,84.67
+12/17/2020,6019,CA,Fresno County,84.67
+12/16/2020,6019,CA,Fresno County,51.67
+12/15/2020,6019,CA,Fresno County,74
+12/14/2020,6019,CA,Fresno County,74
+12/13/2020,6019,CA,Fresno County,76.67
+12/12/2020,6019,CA,Fresno County,74
+12/11/2020,6019,CA,Fresno County,70.67
+12/10/2020,6019,CA,Fresno County,70.67
+12/9/2020,6019,CA,Fresno County,58
+12/8/2020,6019,CA,Fresno County,70.67
+12/7/2020,6019,CA,Fresno County,70.67
+12/6/2020,6019,CA,Fresno County,73.33
+12/5/2020,6019,CA,Fresno County,70
+12/4/2020,6019,CA,Fresno County,67.33
+12/3/2020,6019,CA,Fresno County,67.33
+12/2/2020,6019,CA,Fresno County,63
+12/1/2020,6019,CA,Fresno County,67.33
+11/30/2020,6019,CA,Fresno County,67.33
+11/29/2020,6019,CA,Fresno County,70
+11/28/2020,6019,CA,Fresno County,70
+11/27/2020,6019,CA,Fresno County,67.33
+11/26/2020,6019,CA,Fresno County,67.33
+11/25/2020,6019,CA,Fresno County,63
+11/24/2020,6019,CA,Fresno County,67.33
+11/23/2020,6019,CA,Fresno County,67.33
+11/22/2020,6019,CA,Fresno County,72.67
+12/21/2020,6021,CA,Glenn County,73.08
+12/20/2020,6021,CA,Glenn County,73.08
+12/19/2020,6021,CA,Glenn County,73.08
+12/18/2020,6021,CA,Glenn County,64.67
+12/17/2020,6021,CA,Glenn County,64.67
+12/16/2020,6021,CA,Glenn County,64.67
+12/15/2020,6021,CA,Glenn County,67.33
+12/14/2020,6021,CA,Glenn County,67.33
+12/13/2020,6021,CA,Glenn County,60.77
+12/12/2020,6021,CA,Glenn County,73.08
+12/11/2020,6021,CA,Glenn County,64.67
+12/10/2020,6021,CA,Glenn County,67.33
+12/9/2020,6021,CA,Glenn County,67.33
+12/8/2020,6021,CA,Glenn County,67.33
+12/7/2020,6021,CA,Glenn County,67.33
+12/6/2020,6021,CA,Glenn County,73.08
+12/5/2020,6021,CA,Glenn County,88.46
+12/4/2020,6021,CA,Glenn County,80.67
+12/3/2020,6021,CA,Glenn County,80.67
+12/2/2020,6021,CA,Glenn County,80.67
+12/1/2020,6021,CA,Glenn County,80.67
+11/30/2020,6021,CA,Glenn County,80.67
+11/29/2020,6021,CA,Glenn County,76.15
+11/28/2020,6021,CA,Glenn County,76.15
+11/27/2020,6021,CA,Glenn County,67.33
+11/26/2020,6021,CA,Glenn County,67.33
+11/25/2020,6021,CA,Glenn County,70
+11/24/2020,6021,CA,Glenn County,70
+11/23/2020,6021,CA,Glenn County,59.33
+11/22/2020,6021,CA,Glenn County,76.15
+12/21/2020,6023,CA,Humboldt County,63.85
+12/20/2020,6023,CA,Humboldt County,63.85
+12/19/2020,6023,CA,Humboldt County,63.85
+12/18/2020,6023,CA,Humboldt County,56.67
+12/17/2020,6023,CA,Humboldt County,56.67
+12/16/2020,6023,CA,Humboldt County,50
+12/15/2020,6023,CA,Humboldt County,56.67
+12/14/2020,6023,CA,Humboldt County,56.67
+12/13/2020,6023,CA,Humboldt County,56.67
+12/12/2020,6023,CA,Humboldt County,59.33
+12/11/2020,6023,CA,Humboldt County,56.67
+12/10/2020,6023,CA,Humboldt County,56.67
+12/9/2020,6023,CA,Humboldt County,50
+12/8/2020,6023,CA,Humboldt County,56.67
+12/7/2020,6023,CA,Humboldt County,56.67
+12/6/2020,6023,CA,Humboldt County,59.33
+12/5/2020,6023,CA,Humboldt County,59.33
+12/4/2020,6023,CA,Humboldt County,56.67
+12/3/2020,6023,CA,Humboldt County,56.67
+12/2/2020,6023,CA,Humboldt County,50
+12/1/2020,6023,CA,Humboldt County,56.67
+11/30/2020,6023,CA,Humboldt County,56.67
+11/29/2020,6023,CA,Humboldt County,59.33
+11/28/2020,6023,CA,Humboldt County,59.33
+11/27/2020,6023,CA,Humboldt County,56.67
+11/26/2020,6023,CA,Humboldt County,56.67
+11/25/2020,6023,CA,Humboldt County,47.5
+11/24/2020,6023,CA,Humboldt County,56.67
+11/23/2020,6023,CA,Humboldt County,56.67
+11/22/2020,6023,CA,Humboldt County,48.67
+12/21/2020,6025,CA,Imperial County,73.08
+12/20/2020,6025,CA,Imperial County,73.08
+12/19/2020,6025,CA,Imperial County,73.08
+12/18/2020,6025,CA,Imperial County,78
+12/17/2020,6025,CA,Imperial County,78
+12/16/2020,6025,CA,Imperial County,78.5
+12/15/2020,6025,CA,Imperial County,78
+12/14/2020,6025,CA,Imperial County,78
+12/13/2020,6025,CA,Imperial County,78
+12/12/2020,6025,CA,Imperial County,78
+12/11/2020,6025,CA,Imperial County,78
+12/10/2020,6025,CA,Imperial County,78
+12/9/2020,6025,CA,Imperial County,78.5
+12/8/2020,6025,CA,Imperial County,78
+12/7/2020,6025,CA,Imperial County,78
+12/6/2020,6025,CA,Imperial County,67.33
+12/5/2020,6025,CA,Imperial County,67.33
+12/4/2020,6025,CA,Imperial County,78
+12/3/2020,6025,CA,Imperial County,78
+12/2/2020,6025,CA,Imperial County,78.5
+12/1/2020,6025,CA,Imperial County,78
+11/30/2020,6025,CA,Imperial County,78
+11/29/2020,6025,CA,Imperial County,78
+11/28/2020,6025,CA,Imperial County,78
+11/27/2020,6025,CA,Imperial County,78
+11/26/2020,6025,CA,Imperial County,78
+11/25/2020,6025,CA,Imperial County,78.5
+11/24/2020,6025,CA,Imperial County,78
+11/23/2020,6025,CA,Imperial County,78
+11/22/2020,6025,CA,Imperial County,78
+12/21/2020,6027,CA,Inyo County,88.46
+12/20/2020,6027,CA,Inyo County,88.46
+12/19/2020,6027,CA,Inyo County,88.46
+12/18/2020,6027,CA,Inyo County,88.46
+12/17/2020,6027,CA,Inyo County,88.46
+12/16/2020,6027,CA,Inyo County,76.15
+12/15/2020,6027,CA,Inyo County,76.15
+12/14/2020,6027,CA,Inyo County,76.15
+12/13/2020,6027,CA,Inyo County,76.15
+12/12/2020,6027,CA,Inyo County,76.15
+12/11/2020,6027,CA,Inyo County,76.15
+12/10/2020,6027,CA,Inyo County,76.15
+12/9/2020,6027,CA,Inyo County,63.85
+12/8/2020,6027,CA,Inyo County,63.85
+12/7/2020,6027,CA,Inyo County,76.15
+12/6/2020,6027,CA,Inyo County,76.15
+12/5/2020,6027,CA,Inyo County,76.15
+12/4/2020,6027,CA,Inyo County,76.15
+12/3/2020,6027,CA,Inyo County,63.85
+12/2/2020,6027,CA,Inyo County,63.85
+12/1/2020,6027,CA,Inyo County,63.85
+11/30/2020,6027,CA,Inyo County,51.54
+11/29/2020,6027,CA,Inyo County,51.54
+11/28/2020,6027,CA,Inyo County,76.15
+11/27/2020,6027,CA,Inyo County,76.15
+11/26/2020,6027,CA,Inyo County,76.15
+11/25/2020,6027,CA,Inyo County,63.85
+11/24/2020,6027,CA,Inyo County,63.85
+11/23/2020,6027,CA,Inyo County,70
+11/22/2020,6027,CA,Inyo County,63.85
+12/21/2020,6029,CA,Kern County,88.46
+12/20/2020,6029,CA,Kern County,88.46
+12/19/2020,6029,CA,Kern County,88.46
+12/18/2020,6029,CA,Kern County,78
+12/17/2020,6029,CA,Kern County,78
+12/16/2020,6029,CA,Kern County,78.5
+12/15/2020,6029,CA,Kern County,78
+12/14/2020,6029,CA,Kern County,78
+12/13/2020,6029,CA,Kern County,80.67
+12/12/2020,6029,CA,Kern County,80.67
+12/11/2020,6029,CA,Kern County,78
+12/10/2020,6029,CA,Kern County,78
+12/9/2020,6029,CA,Kern County,78.5
+12/8/2020,6029,CA,Kern County,81.33
+12/7/2020,6029,CA,Kern County,81.33
+12/6/2020,6029,CA,Kern County,86.67
+12/5/2020,6029,CA,Kern County,73.33
+12/4/2020,6029,CA,Kern County,81.33
+12/3/2020,6029,CA,Kern County,70.67
+12/2/2020,6029,CA,Kern County,73
+12/1/2020,6029,CA,Kern County,70.67
+11/30/2020,6029,CA,Kern County,70.67
+11/29/2020,6029,CA,Kern County,73.33
+11/28/2020,6029,CA,Kern County,70
+11/27/2020,6029,CA,Kern County,67.33
+11/26/2020,6029,CA,Kern County,67.33
+11/25/2020,6029,CA,Kern County,65
+11/24/2020,6029,CA,Kern County,67.33
+11/23/2020,6029,CA,Kern County,52.86
+11/22/2020,6029,CA,Kern County,72.67
+12/21/2020,6031,CA,Kings County,88.46
+12/20/2020,6031,CA,Kings County,88.46
+12/19/2020,6031,CA,Kings County,88.46
+12/18/2020,6031,CA,Kings County,78
+12/17/2020,6031,CA,Kings County,78
+12/16/2020,6031,CA,Kings County,71
+12/15/2020,6031,CA,Kings County,78
+12/14/2020,6031,CA,Kings County,78
+12/13/2020,6031,CA,Kings County,80.67
+12/12/2020,6031,CA,Kings County,80.67
+12/11/2020,6031,CA,Kings County,78
+12/10/2020,6031,CA,Kings County,78
+12/9/2020,6031,CA,Kings County,71
+12/8/2020,6031,CA,Kings County,78
+12/7/2020,6031,CA,Kings County,80.67
+12/6/2020,6031,CA,Kings County,83.33
+12/5/2020,6031,CA,Kings County,80.67
+12/4/2020,6031,CA,Kings County,78
+12/3/2020,6031,CA,Kings County,78
+12/2/2020,6031,CA,Kings County,73
+12/1/2020,6031,CA,Kings County,80.67
+11/30/2020,6031,CA,Kings County,80.67
+11/29/2020,6031,CA,Kings County,83.33
+11/28/2020,6031,CA,Kings County,80.67
+11/27/2020,6031,CA,Kings County,78
+11/26/2020,6031,CA,Kings County,78
+11/25/2020,6031,CA,Kings County,66
+11/24/2020,6031,CA,Kings County,78
+11/23/2020,6031,CA,Kings County,80.67
+11/22/2020,6031,CA,Kings County,83.33
+12/21/2020,6033,CA,Lake County,76.15
+12/20/2020,6033,CA,Lake County,76.15
+12/19/2020,6033,CA,Lake County,76.15
+12/18/2020,6033,CA,Lake County,67.33
+12/17/2020,6033,CA,Lake County,67.33
+12/16/2020,6033,CA,Lake County,63
+12/15/2020,6033,CA,Lake County,67.33
+12/14/2020,6033,CA,Lake County,67.33
+12/13/2020,6033,CA,Lake County,70
+12/12/2020,6033,CA,Lake County,70
+12/11/2020,6033,CA,Lake County,67.33
+12/10/2020,6033,CA,Lake County,67.33
+12/9/2020,6033,CA,Lake County,63
+12/8/2020,6033,CA,Lake County,70
+12/7/2020,6033,CA,Lake County,70
+12/6/2020,6033,CA,Lake County,72.67
+12/5/2020,6033,CA,Lake County,59.33
+12/4/2020,6033,CA,Lake County,56.67
+12/3/2020,6033,CA,Lake County,56.67
+12/2/2020,6033,CA,Lake County,55
+12/1/2020,6033,CA,Lake County,59.33
+11/30/2020,6033,CA,Lake County,59.33
+11/29/2020,6033,CA,Lake County,62
+11/28/2020,6033,CA,Lake County,59.33
+11/27/2020,6033,CA,Lake County,56.67
+11/26/2020,6033,CA,Lake County,56.67
+11/25/2020,6033,CA,Lake County,52
+11/24/2020,6033,CA,Lake County,59.33
+11/23/2020,6033,CA,Lake County,59.33
+11/22/2020,6033,CA,Lake County,62
+12/21/2020,6035,CA,Lassen County,73.08
+12/20/2020,6035,CA,Lassen County,73.08
+12/19/2020,6035,CA,Lassen County,73.08
+12/18/2020,6035,CA,Lassen County,78
+12/17/2020,6035,CA,Lassen County,78
+12/16/2020,6035,CA,Lassen County,78
+12/15/2020,6035,CA,Lassen County,78
+12/14/2020,6035,CA,Lassen County,78
+12/13/2020,6035,CA,Lassen County,88.46
+12/12/2020,6035,CA,Lassen County,88.46
+12/11/2020,6035,CA,Lassen County,78
+12/10/2020,6035,CA,Lassen County,78
+12/9/2020,6035,CA,Lassen County,78
+12/8/2020,6035,CA,Lassen County,78
+12/7/2020,6035,CA,Lassen County,80.67
+12/6/2020,6035,CA,Lassen County,88.46
+12/5/2020,6035,CA,Lassen County,88.46
+12/4/2020,6035,CA,Lassen County,78
+12/3/2020,6035,CA,Lassen County,78
+12/2/2020,6035,CA,Lassen County,78
+12/1/2020,6035,CA,Lassen County,80.67
+11/30/2020,6035,CA,Lassen County,80.67
+11/29/2020,6035,CA,Lassen County,88.46
+11/28/2020,6035,CA,Lassen County,88.46
+11/27/2020,6035,CA,Lassen County,78
+11/26/2020,6035,CA,Lassen County,78
+11/25/2020,6035,CA,Lassen County,80.67
+11/24/2020,6035,CA,Lassen County,80.67
+11/23/2020,6035,CA,Lassen County,80.67
+11/22/2020,6035,CA,Lassen County,88.46
+12/21/2020,6037,CA,Los Angeles County,88.46
+12/20/2020,6037,CA,Los Angeles County,86.11
+12/19/2020,6037,CA,Los Angeles County,86.11
+12/18/2020,6037,CA,Los Angeles County,78.5
+12/17/2020,6037,CA,Los Angeles County,78.5
+12/16/2020,6037,CA,Los Angeles County,78.5
+12/15/2020,6037,CA,Los Angeles County,78.5
+12/14/2020,6037,CA,Los Angeles County,78.5
+12/13/2020,6037,CA,Los Angeles County,78.5
+12/12/2020,6037,CA,Los Angeles County,78.5
+12/11/2020,6037,CA,Los Angeles County,78.5
+12/10/2020,6037,CA,Los Angeles County,78.5
+12/9/2020,6037,CA,Los Angeles County,78.5
+12/8/2020,6037,CA,Los Angeles County,78.5
+12/7/2020,6037,CA,Los Angeles County,81
+12/6/2020,6037,CA,Los Angeles County,73.5
+12/5/2020,6037,CA,Los Angeles County,73.5
+12/4/2020,6037,CA,Los Angeles County,73.5
+12/3/2020,6037,CA,Los Angeles County,73.5
+12/2/2020,6037,CA,Los Angeles County,73.5
+12/1/2020,6037,CA,Los Angeles County,65.5
+11/30/2020,6037,CA,Los Angeles County,65.5
+11/29/2020,6037,CA,Los Angeles County,63
+11/28/2020,6037,CA,Los Angeles County,63
+11/27/2020,6037,CA,Los Angeles County,63
+11/26/2020,6037,CA,Los Angeles County,63
+11/25/2020,6037,CA,Los Angeles County,63
+11/24/2020,6037,CA,Los Angeles County,63
+11/23/2020,6037,CA,Los Angeles County,63
+11/22/2020,6037,CA,Los Angeles County,65
+12/21/2020,6039,CA,Madera County,88.46
+12/20/2020,6039,CA,Madera County,88.46
+12/19/2020,6039,CA,Madera County,88.46
+12/18/2020,6039,CA,Madera County,78
+12/17/2020,6039,CA,Madera County,78
+12/16/2020,6039,CA,Madera County,71
+12/15/2020,6039,CA,Madera County,78
+12/14/2020,6039,CA,Madera County,78
+12/13/2020,6039,CA,Madera County,78
+12/12/2020,6039,CA,Madera County,78
+12/11/2020,6039,CA,Madera County,78
+12/10/2020,6039,CA,Madera County,78
+12/9/2020,6039,CA,Madera County,71
+12/8/2020,6039,CA,Madera County,78
+12/7/2020,6039,CA,Madera County,78
+12/6/2020,6039,CA,Madera County,73.33
+12/5/2020,6039,CA,Madera County,73.33
+12/4/2020,6039,CA,Madera County,70.67
+12/3/2020,6039,CA,Madera County,70.67
+12/2/2020,6039,CA,Madera County,65.5
+12/1/2020,6039,CA,Madera County,70.67
+11/30/2020,6039,CA,Madera County,70.67
+11/29/2020,6039,CA,Madera County,73.33
+11/28/2020,6039,CA,Madera County,70.67
+11/27/2020,6039,CA,Madera County,70.67
+11/26/2020,6039,CA,Madera County,67.33
+11/25/2020,6039,CA,Madera County,63
+11/24/2020,6039,CA,Madera County,67.33
+11/23/2020,6039,CA,Madera County,70.67
+11/22/2020,6039,CA,Madera County,76
+12/21/2020,6041,CA,Marin County,76.15
+12/20/2020,6041,CA,Marin County,76.15
+12/19/2020,6041,CA,Marin County,76.15
+12/18/2020,6041,CA,Marin County,67.33
+12/17/2020,6041,CA,Marin County,67.33
+12/16/2020,6041,CA,Marin County,58
+12/15/2020,6041,CA,Marin County,56.67
+12/14/2020,6041,CA,Marin County,56.67
+12/13/2020,6041,CA,Marin County,56.67
+12/12/2020,6041,CA,Marin County,56.67
+12/11/2020,6041,CA,Marin County,56.67
+12/10/2020,6041,CA,Marin County,56.67
+12/9/2020,6041,CA,Marin County,47.5
+12/8/2020,6041,CA,Marin County,56.67
+12/7/2020,6041,CA,Marin County,56.67
+12/6/2020,6041,CA,Marin County,56.67
+12/5/2020,6041,CA,Marin County,56.67
+12/4/2020,6041,CA,Marin County,56.67
+12/3/2020,6041,CA,Marin County,56.67
+12/2/2020,6041,CA,Marin County,47.5
+12/1/2020,6041,CA,Marin County,56.67
+11/30/2020,6041,CA,Marin County,56.67
+11/29/2020,6041,CA,Marin County,56.67
+11/28/2020,6041,CA,Marin County,56.67
+11/27/2020,6041,CA,Marin County,56.67
+11/26/2020,6041,CA,Marin County,46
+11/25/2020,6041,CA,Marin County,39.5
+11/24/2020,6041,CA,Marin County,46
+11/23/2020,6041,CA,Marin County,56.67
+11/22/2020,6041,CA,Marin County,56.67
+12/21/2020,6043,CA,Mariposa County,60
+12/20/2020,6043,CA,Mariposa County,60
+12/19/2020,6043,CA,Mariposa County,60
+12/18/2020,6043,CA,Mariposa County,60
+12/17/2020,6043,CA,Mariposa County,60
+12/16/2020,6043,CA,Mariposa County,60
+12/15/2020,6043,CA,Mariposa County,60
+12/14/2020,6043,CA,Mariposa County,60
+12/13/2020,6043,CA,Mariposa County,60
+12/12/2020,6043,CA,Mariposa County,60
+12/11/2020,6043,CA,Mariposa County,60
+12/10/2020,6043,CA,Mariposa County,60
+12/9/2020,6043,CA,Mariposa County,60
+12/8/2020,6043,CA,Mariposa County,60
+12/7/2020,6043,CA,Mariposa County,60
+12/6/2020,6043,CA,Mariposa County,60
+12/5/2020,6043,CA,Mariposa County,60
+12/4/2020,6043,CA,Mariposa County,60
+12/3/2020,6043,CA,Mariposa County,60
+12/2/2020,6043,CA,Mariposa County,60
+12/1/2020,6043,CA,Mariposa County,60
+11/30/2020,6043,CA,Mariposa County,60
+11/29/2020,6043,CA,Mariposa County,60
+11/28/2020,6043,CA,Mariposa County,60
+11/27/2020,6043,CA,Mariposa County,80
+11/26/2020,6043,CA,Mariposa County,80
+11/25/2020,6043,CA,Mariposa County,80
+11/24/2020,6043,CA,Mariposa County,60
+11/23/2020,6043,CA,Mariposa County,60
+11/22/2020,6043,CA,Mariposa County,60
+12/21/2020,6045,CA,Mendocino County,76.15
+12/20/2020,6045,CA,Mendocino County,76.15
+12/19/2020,6045,CA,Mendocino County,76.15
+12/18/2020,6045,CA,Mendocino County,67.33
+12/17/2020,6045,CA,Mendocino County,67.33
+12/16/2020,6045,CA,Mendocino County,63
+12/15/2020,6045,CA,Mendocino County,67.33
+12/14/2020,6045,CA,Mendocino County,67.33
+12/13/2020,6045,CA,Mendocino County,70
+12/12/2020,6045,CA,Mendocino County,70
+12/11/2020,6045,CA,Mendocino County,67.33
+12/10/2020,6045,CA,Mendocino County,67.33
+12/9/2020,6045,CA,Mendocino County,63
+12/8/2020,6045,CA,Mendocino County,67.33
+12/7/2020,6045,CA,Mendocino County,67.33
+12/6/2020,6045,CA,Mendocino County,70
+12/5/2020,6045,CA,Mendocino County,70
+12/4/2020,6045,CA,Mendocino County,56.67
+12/3/2020,6045,CA,Mendocino County,67.33
+12/2/2020,6045,CA,Mendocino County,63
+12/1/2020,6045,CA,Mendocino County,67.33
+11/30/2020,6045,CA,Mendocino County,67.33
+11/29/2020,6045,CA,Mendocino County,72.67
+11/28/2020,6045,CA,Mendocino County,70
+11/27/2020,6045,CA,Mendocino County,67.33
+11/26/2020,6045,CA,Mendocino County,56.67
+11/25/2020,6045,CA,Mendocino County,60
+11/24/2020,6045,CA,Mendocino County,70
+11/23/2020,6045,CA,Mendocino County,59.33
+11/22/2020,6045,CA,Mendocino County,62
+12/21/2020,6047,CA,Merced County,88.46
+12/20/2020,6047,CA,Merced County,88.46
+12/19/2020,6047,CA,Merced County,88.46
+12/18/2020,6047,CA,Merced County,78
+12/17/2020,6047,CA,Merced County,78
+12/16/2020,6047,CA,Merced County,78.5
+12/15/2020,6047,CA,Merced County,67.33
+12/14/2020,6047,CA,Merced County,67.33
+12/13/2020,6047,CA,Merced County,78
+12/12/2020,6047,CA,Merced County,78
+12/11/2020,6047,CA,Merced County,78
+12/10/2020,6047,CA,Merced County,78
+12/9/2020,6047,CA,Merced County,71
+12/8/2020,6047,CA,Merced County,78
+12/7/2020,6047,CA,Merced County,78
+12/6/2020,6047,CA,Merced County,80.67
+12/5/2020,6047,CA,Merced County,80.67
+12/4/2020,6047,CA,Merced County,78
+12/3/2020,6047,CA,Merced County,78
+12/2/2020,6047,CA,Merced County,63
+12/1/2020,6047,CA,Merced County,67.33
+11/30/2020,6047,CA,Merced County,67.33
+11/29/2020,6047,CA,Merced County,70
+11/28/2020,6047,CA,Merced County,70
+11/27/2020,6047,CA,Merced County,67.33
+11/26/2020,6047,CA,Merced County,67.33
+11/25/2020,6047,CA,Merced County,65
+11/24/2020,6047,CA,Merced County,67.33
+11/23/2020,6047,CA,Merced County,67.33
+11/22/2020,6047,CA,Merced County,70
+12/21/2020,6049,CA,Modoc County,30.38
+12/20/2020,6049,CA,Modoc County,42.69
+12/19/2020,6049,CA,Modoc County,42.69
+12/18/2020,6049,CA,Modoc County,55
+12/17/2020,6049,CA,Modoc County,67.31
+12/16/2020,6049,CA,Modoc County,67.31
+12/15/2020,6049,CA,Modoc County,69.23
+12/14/2020,6049,CA,Modoc County,69.23
+12/13/2020,6049,CA,Modoc County,71.15
+12/12/2020,6049,CA,Modoc County,71.15
+12/11/2020,6049,CA,Modoc County,71.15
+12/10/2020,6049,CA,Modoc County,73.08
+12/9/2020,6049,CA,Modoc County,60.77
+12/8/2020,6049,CA,Modoc County,48.46
+12/7/2020,6049,CA,Modoc County,76.15
+12/6/2020,6049,CA,Modoc County,63.85
+12/5/2020,6049,CA,Modoc County,63.85
+12/4/2020,6049,CA,Modoc County,63.85
+12/3/2020,6049,CA,Modoc County,76.15
+12/2/2020,6049,CA,Modoc County,76.15
+12/1/2020,6049,CA,Modoc County,76.15
+11/30/2020,6049,CA,Modoc County,76.15
+11/29/2020,6049,CA,Modoc County,76.15
+11/28/2020,6049,CA,Modoc County,76.15
+11/27/2020,6049,CA,Modoc County,76.15
+11/26/2020,6049,CA,Modoc County,60.77
+11/25/2020,6049,CA,Modoc County,60.77
+11/24/2020,6049,CA,Modoc County,60.77
+11/23/2020,6049,CA,Modoc County,60.77
+11/22/2020,6049,CA,Modoc County,76.15
+12/21/2020,6051,CA,Mono County,88.46
+12/20/2020,6051,CA,Mono County,88.46
+12/19/2020,6051,CA,Mono County,88.46
+12/18/2020,6051,CA,Mono County,88.46
+12/17/2020,6051,CA,Mono County,88.46
+12/16/2020,6051,CA,Mono County,88.46
+12/15/2020,6051,CA,Mono County,88.46
+12/14/2020,6051,CA,Mono County,88.46
+12/13/2020,6051,CA,Mono County,88.46
+12/12/2020,6051,CA,Mono County,88.46
+12/11/2020,6051,CA,Mono County,88.46
+12/10/2020,6051,CA,Mono County,88.46
+12/9/2020,6051,CA,Mono County,88.46
+12/8/2020,6051,CA,Mono County,88.46
+12/7/2020,6051,CA,Mono County,88.46
+12/6/2020,6051,CA,Mono County,76.15
+12/5/2020,6051,CA,Mono County,76.15
+12/4/2020,6051,CA,Mono County,63.85
+12/3/2020,6051,CA,Mono County,76.15
+12/2/2020,6051,CA,Mono County,70
+12/1/2020,6051,CA,Mono County,60.77
+11/30/2020,6051,CA,Mono County,60.77
+11/29/2020,6051,CA,Mono County,60.77
+11/28/2020,6051,CA,Mono County,58.85
+11/27/2020,6051,CA,Mono County,58.85
+11/26/2020,6051,CA,Mono County,56.92
+11/25/2020,6051,CA,Mono County,56.92
+11/24/2020,6051,CA,Mono County,44.62
+11/23/2020,6051,CA,Mono County,42.69
+11/22/2020,6051,CA,Mono County,55
+12/21/2020,6053,CA,Monterey County,92.31
+12/20/2020,6053,CA,Monterey County,92.31
+12/19/2020,6053,CA,Monterey County,92.31
+12/18/2020,6053,CA,Monterey County,81.33
+12/17/2020,6053,CA,Monterey County,81.33
+12/16/2020,6053,CA,Monterey County,73.5
+12/15/2020,6053,CA,Monterey County,70.67
+12/14/2020,6053,CA,Monterey County,70.67
+12/13/2020,6053,CA,Monterey County,70.67
+12/12/2020,6053,CA,Monterey County,81.33
+12/11/2020,6053,CA,Monterey County,81.33
+12/10/2020,6053,CA,Monterey County,78
+12/9/2020,6053,CA,Monterey County,71
+12/8/2020,6053,CA,Monterey County,78
+12/7/2020,6053,CA,Monterey County,78
+12/6/2020,6053,CA,Monterey County,80.67
+12/5/2020,6053,CA,Monterey County,80.67
+12/4/2020,6053,CA,Monterey County,78
+12/3/2020,6053,CA,Monterey County,78
+12/2/2020,6053,CA,Monterey County,51.67
+12/1/2020,6053,CA,Monterey County,78
+11/30/2020,6053,CA,Monterey County,78
+11/29/2020,6053,CA,Monterey County,70
+11/28/2020,6053,CA,Monterey County,70
+11/27/2020,6053,CA,Monterey County,67.33
+11/26/2020,6053,CA,Monterey County,67.33
+11/25/2020,6053,CA,Monterey County,63
+11/24/2020,6053,CA,Monterey County,67.33
+11/23/2020,6053,CA,Monterey County,67.33
+11/22/2020,6053,CA,Monterey County,70
+12/21/2020,6055,CA,Napa County,73.08
+12/20/2020,6055,CA,Napa County,73.08
+12/19/2020,6055,CA,Napa County,88.46
+12/18/2020,6055,CA,Napa County,78
+12/17/2020,6055,CA,Napa County,78
+12/16/2020,6055,CA,Napa County,71
+12/15/2020,6055,CA,Napa County,78
+12/14/2020,6055,CA,Napa County,78
+12/13/2020,6055,CA,Napa County,78
+12/12/2020,6055,CA,Napa County,78
+12/11/2020,6055,CA,Napa County,78
+12/10/2020,6055,CA,Napa County,78
+12/9/2020,6055,CA,Napa County,66
+12/8/2020,6055,CA,Napa County,78
+12/7/2020,6055,CA,Napa County,78
+12/6/2020,6055,CA,Napa County,80.67
+12/5/2020,6055,CA,Napa County,67.33
+12/4/2020,6055,CA,Napa County,67.33
+12/3/2020,6055,CA,Napa County,67.33
+12/2/2020,6055,CA,Napa County,58
+12/1/2020,6055,CA,Napa County,56.67
+11/30/2020,6055,CA,Napa County,67.33
+11/29/2020,6055,CA,Napa County,67.33
+11/28/2020,6055,CA,Napa County,67.33
+11/27/2020,6055,CA,Napa County,67.33
+11/26/2020,6055,CA,Napa County,67.33
+11/25/2020,6055,CA,Napa County,58
+11/24/2020,6055,CA,Napa County,67.33
+11/23/2020,6055,CA,Napa County,67.33
+11/22/2020,6055,CA,Napa County,70
+12/21/2020,6057,CA,Nevada County,58.85
+12/20/2020,6057,CA,Nevada County,58.85
+12/19/2020,6057,CA,Nevada County,58.85
+12/18/2020,6057,CA,Nevada County,52.33
+12/17/2020,6057,CA,Nevada County,52.33
+12/16/2020,6057,CA,Nevada County,51.75
+12/15/2020,6057,CA,Nevada County,52.33
+12/14/2020,6057,CA,Nevada County,52.33
+12/13/2020,6057,CA,Nevada County,54
+12/12/2020,6057,CA,Nevada County,64.67
+12/11/2020,6057,CA,Nevada County,64.67
+12/10/2020,6057,CA,Nevada County,64.67
+12/9/2020,6057,CA,Nevada County,61
+12/8/2020,6057,CA,Nevada County,78
+12/7/2020,6057,CA,Nevada County,78
+12/6/2020,6057,CA,Nevada County,80.67
+12/5/2020,6057,CA,Nevada County,80.67
+12/4/2020,6057,CA,Nevada County,78
+12/3/2020,6057,CA,Nevada County,67.33
+12/2/2020,6057,CA,Nevada County,63
+12/1/2020,6057,CA,Nevada County,67.33
+11/30/2020,6057,CA,Nevada County,67.33
+11/29/2020,6057,CA,Nevada County,70
+11/28/2020,6057,CA,Nevada County,56.67
+11/27/2020,6057,CA,Nevada County,56.67
+11/26/2020,6057,CA,Nevada County,67.33
+11/25/2020,6057,CA,Nevada County,58
+11/24/2020,6057,CA,Nevada County,67.33
+11/23/2020,6057,CA,Nevada County,67.33
+11/22/2020,6057,CA,Nevada County,70
+12/21/2020,6059,CA,Orange County,88.46
+12/20/2020,6059,CA,Orange County,88.89
+12/19/2020,6059,CA,Orange County,88.89
+12/18/2020,6059,CA,Orange County,81
+12/17/2020,6059,CA,Orange County,81
+12/16/2020,6059,CA,Orange County,81
+12/15/2020,6059,CA,Orange County,81
+12/14/2020,6059,CA,Orange County,81
+12/13/2020,6059,CA,Orange County,81
+12/12/2020,6059,CA,Orange County,81
+12/11/2020,6059,CA,Orange County,81
+12/10/2020,6059,CA,Orange County,81
+12/9/2020,6059,CA,Orange County,81
+12/8/2020,6059,CA,Orange County,81
+12/7/2020,6059,CA,Orange County,73
+12/6/2020,6059,CA,Orange County,73
+12/5/2020,6059,CA,Orange County,73
+12/4/2020,6059,CA,Orange County,73
+12/3/2020,6059,CA,Orange County,73
+12/2/2020,6059,CA,Orange County,73
+12/1/2020,6059,CA,Orange County,73
+11/30/2020,6059,CA,Orange County,63
+11/29/2020,6059,CA,Orange County,63
+11/28/2020,6059,CA,Orange County,63
+11/27/2020,6059,CA,Orange County,65.5
+11/26/2020,6059,CA,Orange County,65.5
+11/25/2020,6059,CA,Orange County,65.5
+11/24/2020,6059,CA,Orange County,65.5
+11/23/2020,6059,CA,Orange County,65.5
+11/22/2020,6059,CA,Orange County,59.5
+12/21/2020,6061,CA,Placer County,88.46
+12/20/2020,6061,CA,Placer County,88.46
+12/19/2020,6061,CA,Placer County,88.46
+12/18/2020,6061,CA,Placer County,78
+12/17/2020,6061,CA,Placer County,78
+12/16/2020,6061,CA,Placer County,71
+12/15/2020,6061,CA,Placer County,78
+12/14/2020,6061,CA,Placer County,78
+12/13/2020,6061,CA,Placer County,78
+12/12/2020,6061,CA,Placer County,52.86
+12/11/2020,6061,CA,Placer County,78
+12/10/2020,6061,CA,Placer County,78
+12/9/2020,6061,CA,Placer County,71
+12/8/2020,6061,CA,Placer County,78
+12/7/2020,6061,CA,Placer County,70.67
+12/6/2020,6061,CA,Placer County,73.33
+12/5/2020,6061,CA,Placer County,70.67
+12/4/2020,6061,CA,Placer County,70.67
+12/3/2020,6061,CA,Placer County,70.67
+12/2/2020,6061,CA,Placer County,52.5
+12/1/2020,6061,CA,Placer County,60
+11/30/2020,6061,CA,Placer County,60
+11/29/2020,6061,CA,Placer County,70
+11/28/2020,6061,CA,Placer County,56.67
+11/27/2020,6061,CA,Placer County,56.67
+11/26/2020,6061,CA,Placer County,56.67
+11/25/2020,6061,CA,Placer County,50
+11/24/2020,6061,CA,Placer County,56.67
+11/23/2020,6061,CA,Placer County,56.67
+11/22/2020,6061,CA,Placer County,59.33
+12/21/2020,6063,CA,Plumas County,56.92
+12/20/2020,6063,CA,Plumas County,56.92
+12/19/2020,6063,CA,Plumas County,56.92
+12/18/2020,6063,CA,Plumas County,56.92
+12/17/2020,6063,CA,Plumas County,56.92
+12/16/2020,6063,CA,Plumas County,58.85
+12/15/2020,6063,CA,Plumas County,58.85
+12/14/2020,6063,CA,Plumas County,58.85
+12/13/2020,6063,CA,Plumas County,58.85
+12/12/2020,6063,CA,Plumas County,58.85
+12/11/2020,6063,CA,Plumas County,58.85
+12/10/2020,6063,CA,Plumas County,58.85
+12/9/2020,6063,CA,Plumas County,60.77
+12/8/2020,6063,CA,Plumas County,60.77
+12/7/2020,6063,CA,Plumas County,60.77
+12/6/2020,6063,CA,Plumas County,60.77
+12/5/2020,6063,CA,Plumas County,60.77
+12/4/2020,6063,CA,Plumas County,60.77
+12/3/2020,6063,CA,Plumas County,60.77
+12/2/2020,6063,CA,Plumas County,48.46
+12/1/2020,6063,CA,Plumas County,48.46
+11/30/2020,6063,CA,Plumas County,48.46
+11/29/2020,6063,CA,Plumas County,48.46
+11/28/2020,6063,CA,Plumas County,48.46
+11/27/2020,6063,CA,Plumas County,48.46
+11/26/2020,6063,CA,Plumas County,60.77
+11/25/2020,6063,CA,Plumas County,60.77
+11/24/2020,6063,CA,Plumas County,60.77
+11/23/2020,6063,CA,Plumas County,60.77
+11/22/2020,6063,CA,Plumas County,60.77
+12/21/2020,6065,CA,Riverside County,88.46
+12/20/2020,6065,CA,Riverside County,88.46
+12/19/2020,6065,CA,Riverside County,88.46
+12/18/2020,6065,CA,Riverside County,78
+12/17/2020,6065,CA,Riverside County,78
+12/16/2020,6065,CA,Riverside County,81
+12/15/2020,6065,CA,Riverside County,78
+12/14/2020,6065,CA,Riverside County,78
+12/13/2020,6065,CA,Riverside County,81.33
+12/12/2020,6065,CA,Riverside County,81.33
+12/11/2020,6065,CA,Riverside County,81.33
+12/10/2020,6065,CA,Riverside County,81.33
+12/9/2020,6065,CA,Riverside County,81
+12/8/2020,6065,CA,Riverside County,81.33
+12/7/2020,6065,CA,Riverside County,81.33
+12/6/2020,6065,CA,Riverside County,84
+12/5/2020,6065,CA,Riverside County,84
+12/4/2020,6065,CA,Riverside County,70.67
+12/3/2020,6065,CA,Riverside County,70.67
+12/2/2020,6065,CA,Riverside County,65.5
+12/1/2020,6065,CA,Riverside County,70.67
+11/30/2020,6065,CA,Riverside County,70.67
+11/29/2020,6065,CA,Riverside County,73.33
+11/28/2020,6065,CA,Riverside County,60
+11/27/2020,6065,CA,Riverside County,70.67
+11/26/2020,6065,CA,Riverside County,70.67
+11/25/2020,6065,CA,Riverside County,65.5
+11/24/2020,6065,CA,Riverside County,67.33
+11/23/2020,6065,CA,Riverside County,67.33
+11/22/2020,6065,CA,Riverside County,70
+12/21/2020,6067,CA,Sacramento County,88.46
+12/20/2020,6067,CA,Sacramento County,88.46
+12/19/2020,6067,CA,Sacramento County,88.46
+12/18/2020,6067,CA,Sacramento County,78
+12/17/2020,6067,CA,Sacramento County,78
+12/16/2020,6067,CA,Sacramento County,71
+12/15/2020,6067,CA,Sacramento County,78
+12/14/2020,6067,CA,Sacramento County,78
+12/13/2020,6067,CA,Sacramento County,78
+12/12/2020,6067,CA,Sacramento County,78
+12/11/2020,6067,CA,Sacramento County,78
+12/10/2020,6067,CA,Sacramento County,78
+12/9/2020,6067,CA,Sacramento County,71
+12/8/2020,6067,CA,Sacramento County,78
+12/7/2020,6067,CA,Sacramento County,78
+12/6/2020,6067,CA,Sacramento County,70
+12/5/2020,6067,CA,Sacramento County,70
+12/4/2020,6067,CA,Sacramento County,67.33
+12/3/2020,6067,CA,Sacramento County,67.33
+12/2/2020,6067,CA,Sacramento County,63
+12/1/2020,6067,CA,Sacramento County,67.33
+11/30/2020,6067,CA,Sacramento County,67.33
+11/29/2020,6067,CA,Sacramento County,70
+11/28/2020,6067,CA,Sacramento County,67.33
+11/27/2020,6067,CA,Sacramento County,67.33
+11/26/2020,6067,CA,Sacramento County,67.33
+11/25/2020,6067,CA,Sacramento County,63
+11/24/2020,6067,CA,Sacramento County,67.33
+11/23/2020,6067,CA,Sacramento County,67.33
+11/22/2020,6067,CA,Sacramento County,70
+12/21/2020,6069,CA,San Benito County,88.46
+12/20/2020,6069,CA,San Benito County,88.46
+12/19/2020,6069,CA,San Benito County,88.46
+12/18/2020,6069,CA,San Benito County,78
+12/17/2020,6069,CA,San Benito County,78
+12/16/2020,6069,CA,San Benito County,78.5
+12/15/2020,6069,CA,San Benito County,78
+12/14/2020,6069,CA,San Benito County,78
+12/13/2020,6069,CA,San Benito County,78
+12/12/2020,6069,CA,San Benito County,78
+12/11/2020,6069,CA,San Benito County,78
+12/10/2020,6069,CA,San Benito County,78
+12/9/2020,6069,CA,San Benito County,78.5
+12/8/2020,6069,CA,San Benito County,78
+12/7/2020,6069,CA,San Benito County,78
+12/6/2020,6069,CA,San Benito County,80.67
+12/5/2020,6069,CA,San Benito County,80.67
+12/4/2020,6069,CA,San Benito County,67.33
+12/3/2020,6069,CA,San Benito County,67.33
+12/2/2020,6069,CA,San Benito County,63
+12/1/2020,6069,CA,San Benito County,67.33
+11/30/2020,6069,CA,San Benito County,67.33
+11/29/2020,6069,CA,San Benito County,70
+11/28/2020,6069,CA,San Benito County,67.33
+11/27/2020,6069,CA,San Benito County,67.33
+11/26/2020,6069,CA,San Benito County,67.33
+11/25/2020,6069,CA,San Benito County,63
+11/24/2020,6069,CA,San Benito County,67.33
+11/23/2020,6069,CA,San Benito County,67.33
+11/22/2020,6069,CA,San Benito County,72.67
+12/21/2020,6071,CA,San Bernardino County,92.31
+12/20/2020,6071,CA,San Bernardino County,92.31
+12/19/2020,6071,CA,San Bernardino County,92.31
+12/18/2020,6071,CA,San Bernardino County,81.33
+12/17/2020,6071,CA,San Bernardino County,81.33
+12/16/2020,6071,CA,San Bernardino County,83.5
+12/15/2020,6071,CA,San Bernardino County,81.33
+12/14/2020,6071,CA,San Bernardino County,81.33
+12/13/2020,6071,CA,San Bernardino County,84
+12/12/2020,6071,CA,San Bernardino County,81.33
+12/11/2020,6071,CA,San Bernardino County,81.33
+12/10/2020,6071,CA,San Bernardino County,81.33
+12/9/2020,6071,CA,San Bernardino County,81
+12/8/2020,6071,CA,San Bernardino County,81.33
+12/7/2020,6071,CA,San Bernardino County,81.33
+12/6/2020,6071,CA,San Bernardino County,84
+12/5/2020,6071,CA,San Bernardino County,84
+12/4/2020,6071,CA,San Bernardino County,81.33
+12/3/2020,6071,CA,San Bernardino County,78
+12/2/2020,6071,CA,San Bernardino County,78.5
+12/1/2020,6071,CA,San Bernardino County,67.33
+11/30/2020,6071,CA,San Bernardino County,78
+11/29/2020,6071,CA,San Bernardino County,80.67
+11/28/2020,6071,CA,San Bernardino County,78
+11/27/2020,6071,CA,San Bernardino County,78
+11/26/2020,6071,CA,San Bernardino County,78
+11/25/2020,6071,CA,San Bernardino County,78.5
+11/24/2020,6071,CA,San Bernardino County,78
+11/23/2020,6071,CA,San Bernardino County,78
+11/22/2020,6071,CA,San Bernardino County,80.67
+12/21/2020,6073,CA,San Diego County,88.46
+12/20/2020,6073,CA,San Diego County,77.78
+12/19/2020,6073,CA,San Diego County,77.78
+12/18/2020,6073,CA,San Diego County,71
+12/17/2020,6073,CA,San Diego County,71
+12/16/2020,6073,CA,San Diego County,71
+12/15/2020,6073,CA,San Diego County,71
+12/14/2020,6073,CA,San Diego County,71
+12/13/2020,6073,CA,San Diego County,71
+12/12/2020,6073,CA,San Diego County,71
+12/11/2020,6073,CA,San Diego County,71
+12/10/2020,6073,CA,San Diego County,71
+12/9/2020,6073,CA,San Diego County,71
+12/8/2020,6073,CA,San Diego County,71
+12/7/2020,6073,CA,San Diego County,71
+12/6/2020,6073,CA,San Diego County,71
+12/5/2020,6073,CA,San Diego County,63
+12/4/2020,6073,CA,San Diego County,63
+12/3/2020,6073,CA,San Diego County,63
+12/2/2020,6073,CA,San Diego County,63
+12/1/2020,6073,CA,San Diego County,63
+11/30/2020,6073,CA,San Diego County,63
+11/29/2020,6073,CA,San Diego County,65
+11/28/2020,6073,CA,San Diego County,58
+11/27/2020,6073,CA,San Diego County,58
+11/26/2020,6073,CA,San Diego County,58
+11/25/2020,6073,CA,San Diego County,58
+11/24/2020,6073,CA,San Diego County,58
+11/23/2020,6073,CA,San Diego County,58
+11/22/2020,6073,CA,San Diego County,60
+12/21/2020,6075,CA,San Francisco County,76.15
+12/20/2020,6075,CA,San Francisco County,76.15
+12/19/2020,6075,CA,San Francisco County,76.15
+12/18/2020,6075,CA,San Francisco County,67.33
+12/17/2020,6075,CA,San Francisco County,67.33
+12/16/2020,6075,CA,San Francisco County,58
+12/15/2020,6075,CA,San Francisco County,67.33
+12/14/2020,6075,CA,San Francisco County,67.33
+12/13/2020,6075,CA,San Francisco County,67.33
+12/12/2020,6075,CA,San Francisco County,67.33
+12/11/2020,6075,CA,San Francisco County,67.33
+12/10/2020,6075,CA,San Francisco County,67.33
+12/9/2020,6075,CA,San Francisco County,55.5
+12/8/2020,6075,CA,San Francisco County,67.33
+12/7/2020,6075,CA,San Francisco County,56.67
+12/6/2020,6075,CA,San Francisco County,56.67
+12/5/2020,6075,CA,San Francisco County,56.67
+12/4/2020,6075,CA,San Francisco County,56.67
+12/3/2020,6075,CA,San Francisco County,56.67
+12/2/2020,6075,CA,San Francisco County,47.5
+12/1/2020,6075,CA,San Francisco County,56.67
+11/30/2020,6075,CA,San Francisco County,56.67
+11/29/2020,6075,CA,San Francisco County,56.67
+11/28/2020,6075,CA,San Francisco County,56.67
+11/27/2020,6075,CA,San Francisco County,56.67
+11/26/2020,6075,CA,San Francisco County,56.67
+11/25/2020,6075,CA,San Francisco County,47.5
+11/24/2020,6075,CA,San Francisco County,56.67
+11/23/2020,6075,CA,San Francisco County,56.67
+11/22/2020,6075,CA,San Francisco County,56.67
+12/21/2020,6077,CA,San Joaquin County,92.31
+12/20/2020,6077,CA,San Joaquin County,92.31
+12/19/2020,6077,CA,San Joaquin County,92.31
+12/18/2020,6077,CA,San Joaquin County,81.33
+12/17/2020,6077,CA,San Joaquin County,81.33
+12/16/2020,6077,CA,San Joaquin County,73.5
+12/15/2020,6077,CA,San Joaquin County,81.33
+12/14/2020,6077,CA,San Joaquin County,60
+12/13/2020,6077,CA,San Joaquin County,70.67
+12/12/2020,6077,CA,San Joaquin County,70.67
+12/11/2020,6077,CA,San Joaquin County,70.67
+12/10/2020,6077,CA,San Joaquin County,70.67
+12/9/2020,6077,CA,San Joaquin County,55.83
+12/8/2020,6077,CA,San Joaquin County,70.67
+12/7/2020,6077,CA,San Joaquin County,70.67
+12/6/2020,6077,CA,San Joaquin County,73.33
+12/5/2020,6077,CA,San Joaquin County,73.33
+12/4/2020,6077,CA,San Joaquin County,70.67
+12/3/2020,6077,CA,San Joaquin County,70.67
+12/2/2020,6077,CA,San Joaquin County,57.5
+12/1/2020,6077,CA,San Joaquin County,56.67
+11/30/2020,6077,CA,San Joaquin County,56.67
+11/29/2020,6077,CA,San Joaquin County,59.33
+11/28/2020,6077,CA,San Joaquin County,59.33
+11/27/2020,6077,CA,San Joaquin County,56.67
+11/26/2020,6077,CA,San Joaquin County,56.67
+11/25/2020,6077,CA,San Joaquin County,63
+11/24/2020,6077,CA,San Joaquin County,56.67
+11/23/2020,6077,CA,San Joaquin County,56.67
+11/22/2020,6077,CA,San Joaquin County,62
+12/21/2020,6079,CA,San Luis Obispo County,88.46
+12/20/2020,6079,CA,San Luis Obispo County,88.46
+12/19/2020,6079,CA,San Luis Obispo County,88.46
+12/18/2020,6079,CA,San Luis Obispo County,78
+12/17/2020,6079,CA,San Luis Obispo County,78
+12/16/2020,6079,CA,San Luis Obispo County,71
+12/15/2020,6079,CA,San Luis Obispo County,67.33
+12/14/2020,6079,CA,San Luis Obispo County,67.33
+12/13/2020,6079,CA,San Luis Obispo County,67.33
+12/12/2020,6079,CA,San Luis Obispo County,67.33
+12/11/2020,6079,CA,San Luis Obispo County,67.33
+12/10/2020,6079,CA,San Luis Obispo County,67.33
+12/9/2020,6079,CA,San Luis Obispo County,63
+12/8/2020,6079,CA,San Luis Obispo County,67.33
+12/7/2020,6079,CA,San Luis Obispo County,67.33
+12/6/2020,6079,CA,San Luis Obispo County,59.33
+12/5/2020,6079,CA,San Luis Obispo County,59.33
+12/4/2020,6079,CA,San Luis Obispo County,56.67
+12/3/2020,6079,CA,San Luis Obispo County,67.33
+12/2/2020,6079,CA,San Luis Obispo County,50
+12/1/2020,6079,CA,San Luis Obispo County,56.67
+11/30/2020,6079,CA,San Luis Obispo County,67.33
+11/29/2020,6079,CA,San Luis Obispo County,70
+11/28/2020,6079,CA,San Luis Obispo County,70
+11/27/2020,6079,CA,San Luis Obispo County,67.33
+11/26/2020,6079,CA,San Luis Obispo County,56.67
+11/25/2020,6079,CA,San Luis Obispo County,58
+11/24/2020,6079,CA,San Luis Obispo County,67.33
+11/23/2020,6079,CA,San Luis Obispo County,67.33
+11/22/2020,6079,CA,San Luis Obispo County,70
+12/21/2020,6081,CA,San Mateo County,76.15
+12/20/2020,6081,CA,San Mateo County,88.46
+12/19/2020,6081,CA,San Mateo County,88.46
+12/18/2020,6081,CA,San Mateo County,78
+12/17/2020,6081,CA,San Mateo County,78
+12/16/2020,6081,CA,San Mateo County,58
+12/15/2020,6081,CA,San Mateo County,67.33
+12/14/2020,6081,CA,San Mateo County,67.33
+12/13/2020,6081,CA,San Mateo County,67.33
+12/12/2020,6081,CA,San Mateo County,67.33
+12/11/2020,6081,CA,San Mateo County,67.33
+12/10/2020,6081,CA,San Mateo County,67.33
+12/9/2020,6081,CA,San Mateo County,58
+12/8/2020,6081,CA,San Mateo County,67.33
+12/7/2020,6081,CA,San Mateo County,67.33
+12/6/2020,6081,CA,San Mateo County,67.33
+12/5/2020,6081,CA,San Mateo County,60
+12/4/2020,6081,CA,San Mateo County,70.67
+12/3/2020,6081,CA,San Mateo County,60
+12/2/2020,6081,CA,San Mateo County,52.5
+12/1/2020,6081,CA,San Mateo County,60
+11/30/2020,6081,CA,San Mateo County,56.67
+11/29/2020,6081,CA,San Mateo County,56.67
+11/28/2020,6081,CA,San Mateo County,56.67
+11/27/2020,6081,CA,San Mateo County,56.67
+11/26/2020,6081,CA,San Mateo County,56.67
+11/25/2020,6081,CA,San Mateo County,47.5
+11/24/2020,6081,CA,San Mateo County,56.67
+11/23/2020,6081,CA,San Mateo County,56.67
+11/22/2020,6081,CA,San Mateo County,56.67
+12/21/2020,6083,CA,Santa Barbara County,76.15
+12/20/2020,6083,CA,Santa Barbara County,76.15
+12/19/2020,6083,CA,Santa Barbara County,76.15
+12/18/2020,6083,CA,Santa Barbara County,67.33
+12/17/2020,6083,CA,Santa Barbara County,67.33
+12/16/2020,6083,CA,Santa Barbara County,63
+12/15/2020,6083,CA,Santa Barbara County,67.33
+12/14/2020,6083,CA,Santa Barbara County,67.33
+12/13/2020,6083,CA,Santa Barbara County,70
+12/12/2020,6083,CA,Santa Barbara County,67.33
+12/11/2020,6083,CA,Santa Barbara County,67.33
+12/10/2020,6083,CA,Santa Barbara County,67.33
+12/9/2020,6083,CA,Santa Barbara County,58
+12/8/2020,6083,CA,Santa Barbara County,67.33
+12/7/2020,6083,CA,Santa Barbara County,56.67
+12/6/2020,6083,CA,Santa Barbara County,59.33
+12/5/2020,6083,CA,Santa Barbara County,59.33
+12/4/2020,6083,CA,Santa Barbara County,56.67
+12/3/2020,6083,CA,Santa Barbara County,56.67
+12/2/2020,6083,CA,Santa Barbara County,50
+12/1/2020,6083,CA,Santa Barbara County,56.67
+11/30/2020,6083,CA,Santa Barbara County,56.67
+11/29/2020,6083,CA,Santa Barbara County,59.33
+11/28/2020,6083,CA,Santa Barbara County,59.33
+11/27/2020,6083,CA,Santa Barbara County,56.67
+11/26/2020,6083,CA,Santa Barbara County,56.67
+11/25/2020,6083,CA,Santa Barbara County,50
+11/24/2020,6083,CA,Santa Barbara County,56.67
+11/23/2020,6083,CA,Santa Barbara County,56.67
+11/22/2020,6083,CA,Santa Barbara County,59.33
+12/21/2020,6085,CA,Santa Clara County,88.46
+12/20/2020,6085,CA,Santa Clara County,88.46
+12/19/2020,6085,CA,Santa Clara County,88.46
+12/18/2020,6085,CA,Santa Clara County,78
+12/17/2020,6085,CA,Santa Clara County,78
+12/16/2020,6085,CA,Santa Clara County,71
+12/15/2020,6085,CA,Santa Clara County,78
+12/14/2020,6085,CA,Santa Clara County,78
+12/13/2020,6085,CA,Santa Clara County,78
+12/12/2020,6085,CA,Santa Clara County,78
+12/11/2020,6085,CA,Santa Clara County,78
+12/10/2020,6085,CA,Santa Clara County,78
+12/9/2020,6085,CA,Santa Clara County,66
+12/8/2020,6085,CA,Santa Clara County,67.33
+12/7/2020,6085,CA,Santa Clara County,67.33
+12/6/2020,6085,CA,Santa Clara County,67.33
+12/5/2020,6085,CA,Santa Clara County,70.67
+12/4/2020,6085,CA,Santa Clara County,70.67
+12/3/2020,6085,CA,Santa Clara County,70.67
+12/2/2020,6085,CA,Santa Clara County,60.5
+12/1/2020,6085,CA,Santa Clara County,70.67
+11/30/2020,6085,CA,Santa Clara County,70.67
+11/29/2020,6085,CA,Santa Clara County,70.67
+11/28/2020,6085,CA,Santa Clara County,60
+11/27/2020,6085,CA,Santa Clara County,60
+11/26/2020,6085,CA,Santa Clara County,60
+11/25/2020,6085,CA,Santa Clara County,47.5
+11/24/2020,6085,CA,Santa Clara County,56.67
+11/23/2020,6085,CA,Santa Clara County,56.67
+11/22/2020,6085,CA,Santa Clara County,56.67
+12/21/2020,6087,CA,Santa Cruz County,88.46
+12/20/2020,6087,CA,Santa Cruz County,88.46
+12/19/2020,6087,CA,Santa Cruz County,88.46
+12/18/2020,6087,CA,Santa Cruz County,78
+12/17/2020,6087,CA,Santa Cruz County,78
+12/16/2020,6087,CA,Santa Cruz County,71
+12/15/2020,6087,CA,Santa Cruz County,78
+12/14/2020,6087,CA,Santa Cruz County,67.33
+12/13/2020,6087,CA,Santa Cruz County,67.33
+12/12/2020,6087,CA,Santa Cruz County,67.33
+12/11/2020,6087,CA,Santa Cruz County,67.33
+12/10/2020,6087,CA,Santa Cruz County,67.33
+12/9/2020,6087,CA,Santa Cruz County,58
+12/8/2020,6087,CA,Santa Cruz County,67.33
+12/7/2020,6087,CA,Santa Cruz County,67.33
+12/6/2020,6087,CA,Santa Cruz County,67.33
+12/5/2020,6087,CA,Santa Cruz County,67.33
+12/4/2020,6087,CA,Santa Cruz County,67.33
+12/3/2020,6087,CA,Santa Cruz County,67.33
+12/2/2020,6087,CA,Santa Cruz County,58
+12/1/2020,6087,CA,Santa Cruz County,67.33
+11/30/2020,6087,CA,Santa Cruz County,67.33
+11/29/2020,6087,CA,Santa Cruz County,70
+11/28/2020,6087,CA,Santa Cruz County,67.33
+11/27/2020,6087,CA,Santa Cruz County,56.67
+11/26/2020,6087,CA,Santa Cruz County,67.33
+11/25/2020,6087,CA,Santa Cruz County,58
+11/24/2020,6087,CA,Santa Cruz County,67.33
+11/23/2020,6087,CA,Santa Cruz County,56.67
+11/22/2020,6087,CA,Santa Cruz County,70
+12/21/2020,6089,CA,Shasta County,55
+12/20/2020,6089,CA,Shasta County,55
+12/19/2020,6089,CA,Shasta County,55
+12/18/2020,6089,CA,Shasta County,49
+12/17/2020,6089,CA,Shasta County,62.33
+12/16/2020,6089,CA,Shasta County,60.5
+12/15/2020,6089,CA,Shasta County,64
+12/14/2020,6089,CA,Shasta County,22.86
+12/13/2020,6089,CA,Shasta County,65.67
+12/12/2020,6089,CA,Shasta County,65.67
+12/11/2020,6089,CA,Shasta County,63
+12/10/2020,6089,CA,Shasta County,67.33
+12/9/2020,6089,CA,Shasta County,63
+12/8/2020,6089,CA,Shasta County,67.33
+12/7/2020,6089,CA,Shasta County,67.33
+12/6/2020,6089,CA,Shasta County,83.33
+12/5/2020,6089,CA,Shasta County,83.33
+12/4/2020,6089,CA,Shasta County,80.67
+12/3/2020,6089,CA,Shasta County,80.67
+12/2/2020,6089,CA,Shasta County,65
+12/1/2020,6089,CA,Shasta County,80.67
+11/30/2020,6089,CA,Shasta County,80.67
+11/29/2020,6089,CA,Shasta County,83.33
+11/28/2020,6089,CA,Shasta County,80.67
+11/27/2020,6089,CA,Shasta County,78
+11/26/2020,6089,CA,Shasta County,78
+11/25/2020,6089,CA,Shasta County,73
+11/24/2020,6089,CA,Shasta County,80.67
+11/23/2020,6089,CA,Shasta County,80.67
+11/22/2020,6089,CA,Shasta County,83.33
+12/21/2020,6091,CA,Sierra County,#DIV/0!
+12/20/2020,6091,CA,Sierra County,40
+12/19/2020,6091,CA,Sierra County,60
+12/18/2020,6091,CA,Sierra County,60
+12/17/2020,6091,CA,Sierra County,60
+12/16/2020,6091,CA,Sierra County,60
+12/15/2020,6091,CA,Sierra County,60
+12/14/2020,6091,CA,Sierra County,60
+12/13/2020,6091,CA,Sierra County,60
+12/12/2020,6091,CA,Sierra County,40
+12/11/2020,6091,CA,Sierra County,40
+12/10/2020,6091,CA,Sierra County,40
+12/9/2020,6091,CA,Sierra County,40
+12/8/2020,6091,CA,Sierra County,40
+12/7/2020,6091,CA,Sierra County,40
+12/6/2020,6091,CA,Sierra County,40
+12/5/2020,6091,CA,Sierra County,40
+12/4/2020,6091,CA,Sierra County,40
+12/3/2020,6091,CA,Sierra County,40
+12/2/2020,6091,CA,Sierra County,40
+12/1/2020,6091,CA,Sierra County,40
+11/30/2020,6091,CA,Sierra County,60
+11/29/2020,6091,CA,Sierra County,60
+11/28/2020,6091,CA,Sierra County,60
+11/27/2020,6091,CA,Sierra County,60
+11/26/2020,6091,CA,Sierra County,60
+11/25/2020,6091,CA,Sierra County,60
+11/24/2020,6091,CA,Sierra County,60
+11/23/2020,6091,CA,Sierra County,40
+11/22/2020,6091,CA,Sierra County,40
+12/21/2020,6093,CA,Siskiyou County,58.85
+12/20/2020,6093,CA,Siskiyou County,58.85
+12/19/2020,6093,CA,Siskiyou County,58.85
+12/18/2020,6093,CA,Siskiyou County,55
+12/17/2020,6093,CA,Siskiyou County,52.33
+12/16/2020,6093,CA,Siskiyou County,52.33
+12/15/2020,6093,CA,Siskiyou County,55
+12/14/2020,6093,CA,Siskiyou County,55
+12/13/2020,6093,CA,Siskiyou County,58.85
+12/12/2020,6093,CA,Siskiyou County,57.67
+12/11/2020,6093,CA,Siskiyou County,52.33
+12/10/2020,6093,CA,Siskiyou County,55
+12/9/2020,6093,CA,Siskiyou County,55
+12/8/2020,6093,CA,Siskiyou County,55
+12/7/2020,6093,CA,Siskiyou County,55
+12/6/2020,6093,CA,Siskiyou County,71.15
+12/5/2020,6093,CA,Siskiyou County,70
+12/4/2020,6093,CA,Siskiyou County,67.33
+12/3/2020,6093,CA,Siskiyou County,56.67
+12/2/2020,6093,CA,Siskiyou County,56.67
+12/1/2020,6093,CA,Siskiyou County,67.33
+11/30/2020,6093,CA,Siskiyou County,67.33
+11/29/2020,6093,CA,Siskiyou County,60.77
+11/28/2020,6093,CA,Siskiyou County,59.33
+11/27/2020,6093,CA,Siskiyou County,67.33
+11/26/2020,6093,CA,Siskiyou County,78
+11/25/2020,6093,CA,Siskiyou County,80.67
+11/24/2020,6093,CA,Siskiyou County,80.67
+11/23/2020,6093,CA,Siskiyou County,80.67
+11/22/2020,6093,CA,Siskiyou County,76.15
+12/21/2020,6095,CA,Solano County,92.31
+12/20/2020,6095,CA,Solano County,92.31
+12/19/2020,6095,CA,Solano County,92.31
+12/18/2020,6095,CA,Solano County,81.33
+12/17/2020,6095,CA,Solano County,81.33
+12/16/2020,6095,CA,Solano County,73.5
+12/15/2020,6095,CA,Solano County,81.33
+12/14/2020,6095,CA,Solano County,81.33
+12/13/2020,6095,CA,Solano County,70.67
+12/12/2020,6095,CA,Solano County,70.67
+12/11/2020,6095,CA,Solano County,70.67
+12/10/2020,6095,CA,Solano County,67.33
+12/9/2020,6095,CA,Solano County,58
+12/8/2020,6095,CA,Solano County,67.33
+12/7/2020,6095,CA,Solano County,67.33
+12/6/2020,6095,CA,Solano County,70
+12/5/2020,6095,CA,Solano County,70
+12/4/2020,6095,CA,Solano County,67.33
+12/3/2020,6095,CA,Solano County,67.33
+12/2/2020,6095,CA,Solano County,58
+12/1/2020,6095,CA,Solano County,67.33
+11/30/2020,6095,CA,Solano County,67.33
+11/29/2020,6095,CA,Solano County,70
+11/28/2020,6095,CA,Solano County,56.67
+11/27/2020,6095,CA,Solano County,56.67
+11/26/2020,6095,CA,Solano County,56.67
+11/25/2020,6095,CA,Solano County,58
+11/24/2020,6095,CA,Solano County,67.33
+11/23/2020,6095,CA,Solano County,67.33
+11/22/2020,6095,CA,Solano County,59.33
+12/21/2020,6097,CA,Sonoma County,88.46
+12/20/2020,6097,CA,Sonoma County,88.46
+12/19/2020,6097,CA,Sonoma County,88.46
+12/18/2020,6097,CA,Sonoma County,78
+12/17/2020,6097,CA,Sonoma County,78
+12/16/2020,6097,CA,Sonoma County,71
+12/15/2020,6097,CA,Sonoma County,67.33
+12/14/2020,6097,CA,Sonoma County,67.33
+12/13/2020,6097,CA,Sonoma County,67.33
+12/12/2020,6097,CA,Sonoma County,67.33
+12/11/2020,6097,CA,Sonoma County,67.33
+12/10/2020,6097,CA,Sonoma County,67.33
+12/9/2020,6097,CA,Sonoma County,63
+12/8/2020,6097,CA,Sonoma County,67.33
+12/7/2020,6097,CA,Sonoma County,67.33
+12/6/2020,6097,CA,Sonoma County,70
+12/5/2020,6097,CA,Sonoma County,67.33
+12/4/2020,6097,CA,Sonoma County,67.33
+12/3/2020,6097,CA,Sonoma County,67.33
+12/2/2020,6097,CA,Sonoma County,58
+12/1/2020,6097,CA,Sonoma County,67.33
+11/30/2020,6097,CA,Sonoma County,56.67
+11/29/2020,6097,CA,Sonoma County,59.33
+11/28/2020,6097,CA,Sonoma County,56.67
+11/27/2020,6097,CA,Sonoma County,56.67
+11/26/2020,6097,CA,Sonoma County,56.67
+11/25/2020,6097,CA,Sonoma County,50
+11/24/2020,6097,CA,Sonoma County,56.67
+11/23/2020,6097,CA,Sonoma County,56.67
+11/22/2020,6097,CA,Sonoma County,59.33
+12/21/2020,6099,CA,Stanislaus County,88.46
+12/20/2020,6099,CA,Stanislaus County,88.46
+12/19/2020,6099,CA,Stanislaus County,88.46
+12/18/2020,6099,CA,Stanislaus County,78
+12/17/2020,6099,CA,Stanislaus County,78
+12/16/2020,6099,CA,Stanislaus County,78.5
+12/15/2020,6099,CA,Stanislaus County,78
+12/14/2020,6099,CA,Stanislaus County,78
+12/13/2020,6099,CA,Stanislaus County,80.67
+12/12/2020,6099,CA,Stanislaus County,78
+12/11/2020,6099,CA,Stanislaus County,78
+12/10/2020,6099,CA,Stanislaus County,78
+12/9/2020,6099,CA,Stanislaus County,78.5
+12/8/2020,6099,CA,Stanislaus County,78
+12/7/2020,6099,CA,Stanislaus County,78
+12/6/2020,6099,CA,Stanislaus County,83.33
+12/5/2020,6099,CA,Stanislaus County,80.67
+12/4/2020,6099,CA,Stanislaus County,78
+12/3/2020,6099,CA,Stanislaus County,78
+12/2/2020,6099,CA,Stanislaus County,63
+12/1/2020,6099,CA,Stanislaus County,67.33
+11/30/2020,6099,CA,Stanislaus County,67.33
+11/29/2020,6099,CA,Stanislaus County,70
+11/28/2020,6099,CA,Stanislaus County,70
+11/27/2020,6099,CA,Stanislaus County,67.33
+11/26/2020,6099,CA,Stanislaus County,67.33
+11/25/2020,6099,CA,Stanislaus County,65
+11/24/2020,6099,CA,Stanislaus County,67.33
+11/23/2020,6099,CA,Stanislaus County,70
+11/22/2020,6099,CA,Stanislaus County,72.67
+12/21/2020,6101,CA,Sutter County,88.46
+12/20/2020,6101,CA,Sutter County,88.46
+12/19/2020,6101,CA,Sutter County,88.46
+12/18/2020,6101,CA,Sutter County,78
+12/17/2020,6101,CA,Sutter County,78
+12/16/2020,6101,CA,Sutter County,83.5
+12/15/2020,6101,CA,Sutter County,78
+12/14/2020,6101,CA,Sutter County,78
+12/13/2020,6101,CA,Sutter County,80.67
+12/12/2020,6101,CA,Sutter County,80.67
+12/11/2020,6101,CA,Sutter County,78
+12/10/2020,6101,CA,Sutter County,78
+12/9/2020,6101,CA,Sutter County,83.5
+12/8/2020,6101,CA,Sutter County,78
+12/7/2020,6101,CA,Sutter County,78
+12/6/2020,6101,CA,Sutter County,83.33
+12/5/2020,6101,CA,Sutter County,80.67
+12/4/2020,6101,CA,Sutter County,78
+12/3/2020,6101,CA,Sutter County,78
+12/2/2020,6101,CA,Sutter County,83.5
+12/1/2020,6101,CA,Sutter County,78
+11/30/2020,6101,CA,Sutter County,80.67
+11/29/2020,6101,CA,Sutter County,80.67
+11/28/2020,6101,CA,Sutter County,80.67
+11/27/2020,6101,CA,Sutter County,78
+11/26/2020,6101,CA,Sutter County,81.33
+11/25/2020,6101,CA,Sutter County,83.5
+11/24/2020,6101,CA,Sutter County,84
+11/23/2020,6101,CA,Sutter County,81.33
+11/22/2020,6101,CA,Sutter County,76
+12/21/2020,6103,CA,Tehama County,73.08
+12/20/2020,6103,CA,Tehama County,73.08
+12/19/2020,6103,CA,Tehama County,73.08
+12/18/2020,6103,CA,Tehama County,64.67
+12/17/2020,6103,CA,Tehama County,67.33
+12/16/2020,6103,CA,Tehama County,78.5
+12/15/2020,6103,CA,Tehama County,80.67
+12/14/2020,6103,CA,Tehama County,80.67
+12/13/2020,6103,CA,Tehama County,80.67
+12/12/2020,6103,CA,Tehama County,83.33
+12/11/2020,6103,CA,Tehama County,78
+12/10/2020,6103,CA,Tehama County,80.67
+12/9/2020,6103,CA,Tehama County,80.5
+12/8/2020,6103,CA,Tehama County,80.67
+12/7/2020,6103,CA,Tehama County,80.67
+12/6/2020,6103,CA,Tehama County,83.33
+12/5/2020,6103,CA,Tehama County,72.67
+12/4/2020,6103,CA,Tehama County,67.33
+12/3/2020,6103,CA,Tehama County,70
+12/2/2020,6103,CA,Tehama County,72.5
+12/1/2020,6103,CA,Tehama County,70
+11/30/2020,6103,CA,Tehama County,80.67
+11/29/2020,6103,CA,Tehama County,83.33
+11/28/2020,6103,CA,Tehama County,83.33
+11/27/2020,6103,CA,Tehama County,78
+11/26/2020,6103,CA,Tehama County,78
+11/25/2020,6103,CA,Tehama County,80.5
+11/24/2020,6103,CA,Tehama County,80.67
+11/23/2020,6103,CA,Tehama County,80.67
+11/22/2020,6103,CA,Tehama County,83.33
+12/21/2020,6105,CA,Trinity County,42.69
+12/20/2020,6105,CA,Trinity County,42.69
+12/19/2020,6105,CA,Trinity County,42.69
+12/18/2020,6105,CA,Trinity County,42.69
+12/17/2020,6105,CA,Trinity County,42.69
+12/16/2020,6105,CA,Trinity County,42.69
+12/15/2020,6105,CA,Trinity County,42.69
+12/14/2020,6105,CA,Trinity County,55
+12/13/2020,6105,CA,Trinity County,55
+12/12/2020,6105,CA,Trinity County,55
+12/11/2020,6105,CA,Trinity County,55
+12/10/2020,6105,CA,Trinity County,55
+12/9/2020,6105,CA,Trinity County,55
+12/8/2020,6105,CA,Trinity County,56.92
+12/7/2020,6105,CA,Trinity County,56.92
+12/6/2020,6105,CA,Trinity County,44.62
+12/5/2020,6105,CA,Trinity County,44.62
+12/4/2020,6105,CA,Trinity County,56.92
+12/3/2020,6105,CA,Trinity County,56.92
+12/2/2020,6105,CA,Trinity County,56.92
+12/1/2020,6105,CA,Trinity County,56.92
+11/30/2020,6105,CA,Trinity County,71.15
+11/29/2020,6105,CA,Trinity County,71.15
+11/28/2020,6105,CA,Trinity County,71.15
+11/27/2020,6105,CA,Trinity County,58.85
+11/26/2020,6105,CA,Trinity County,58.85
+11/25/2020,6105,CA,Trinity County,73.08
+11/24/2020,6105,CA,Trinity County,73.08
+11/23/2020,6105,CA,Trinity County,73.08
+11/22/2020,6105,CA,Trinity County,88.46
+12/21/2020,6107,CA,Tulare County,88.46
+12/20/2020,6107,CA,Tulare County,88.46
+12/19/2020,6107,CA,Tulare County,88.46
+12/18/2020,6107,CA,Tulare County,78
+12/17/2020,6107,CA,Tulare County,78
+12/16/2020,6107,CA,Tulare County,78.5
+12/15/2020,6107,CA,Tulare County,78
+12/14/2020,6107,CA,Tulare County,78
+12/13/2020,6107,CA,Tulare County,80.67
+12/12/2020,6107,CA,Tulare County,80.67
+12/11/2020,6107,CA,Tulare County,78
+12/10/2020,6107,CA,Tulare County,78
+12/9/2020,6107,CA,Tulare County,78.5
+12/8/2020,6107,CA,Tulare County,78
+12/7/2020,6107,CA,Tulare County,78
+12/6/2020,6107,CA,Tulare County,83.33
+12/5/2020,6107,CA,Tulare County,84
+12/4/2020,6107,CA,Tulare County,81.33
+12/3/2020,6107,CA,Tulare County,81.33
+12/2/2020,6107,CA,Tulare County,65.5
+12/1/2020,6107,CA,Tulare County,70.67
+11/30/2020,6107,CA,Tulare County,70.67
+11/29/2020,6107,CA,Tulare County,76
+11/28/2020,6107,CA,Tulare County,65.71
+11/27/2020,6107,CA,Tulare County,70.67
+11/26/2020,6107,CA,Tulare County,70.67
+11/25/2020,6107,CA,Tulare County,67.5
+11/24/2020,6107,CA,Tulare County,70.67
+11/23/2020,6107,CA,Tulare County,70
+11/22/2020,6107,CA,Tulare County,72.67
+12/21/2020,6109,CA,Tuolumne County,92.31
+12/20/2020,6109,CA,Tuolumne County,92.31
+12/19/2020,6109,CA,Tuolumne County,92.31
+12/18/2020,6109,CA,Tuolumne County,81.33
+12/17/2020,6109,CA,Tuolumne County,81.33
+12/16/2020,6109,CA,Tuolumne County,81
+12/15/2020,6109,CA,Tuolumne County,81.33
+12/14/2020,6109,CA,Tuolumne County,81.33
+12/13/2020,6109,CA,Tuolumne County,92.31
+12/12/2020,6109,CA,Tuolumne County,81.33
+12/11/2020,6109,CA,Tuolumne County,81.33
+12/10/2020,6109,CA,Tuolumne County,81.33
+12/9/2020,6109,CA,Tuolumne County,73.5
+12/8/2020,6109,CA,Tuolumne County,81.33
+12/7/2020,6109,CA,Tuolumne County,78
+12/6/2020,6109,CA,Tuolumne County,88.46
+12/5/2020,6109,CA,Tuolumne County,78
+12/4/2020,6109,CA,Tuolumne County,78
+12/3/2020,6109,CA,Tuolumne County,78
+12/2/2020,6109,CA,Tuolumne County,71
+12/1/2020,6109,CA,Tuolumne County,80.67
+11/30/2020,6109,CA,Tuolumne County,78
+11/29/2020,6109,CA,Tuolumne County,88.46
+11/28/2020,6109,CA,Tuolumne County,78
+11/27/2020,6109,CA,Tuolumne County,78
+11/26/2020,6109,CA,Tuolumne County,78
+11/25/2020,6109,CA,Tuolumne County,71
+11/24/2020,6109,CA,Tuolumne County,78
+11/23/2020,6109,CA,Tuolumne County,78
+11/22/2020,6109,CA,Tuolumne County,88.46
+12/21/2020,6111,CA,Ventura County,88.46
+12/20/2020,6111,CA,Ventura County,88.46
+12/19/2020,6111,CA,Ventura County,88.46
+12/18/2020,6111,CA,Ventura County,78
+12/17/2020,6111,CA,Ventura County,78
+12/16/2020,6111,CA,Ventura County,71
+12/15/2020,6111,CA,Ventura County,78
+12/14/2020,6111,CA,Ventura County,78
+12/13/2020,6111,CA,Ventura County,78
+12/12/2020,6111,CA,Ventura County,78
+12/11/2020,6111,CA,Ventura County,67.33
+12/10/2020,6111,CA,Ventura County,67.33
+12/9/2020,6111,CA,Ventura County,63
+12/8/2020,6111,CA,Ventura County,78
+12/7/2020,6111,CA,Ventura County,78
+12/6/2020,6111,CA,Ventura County,80.67
+12/5/2020,6111,CA,Ventura County,67.33
+12/4/2020,6111,CA,Ventura County,67.33
+12/3/2020,6111,CA,Ventura County,67.33
+12/2/2020,6111,CA,Ventura County,63
+12/1/2020,6111,CA,Ventura County,67.33
+11/30/2020,6111,CA,Ventura County,67.33
+11/29/2020,6111,CA,Ventura County,59.33
+11/28/2020,6111,CA,Ventura County,67.33
+11/27/2020,6111,CA,Ventura County,67.33
+11/26/2020,6111,CA,Ventura County,67.33
+11/25/2020,6111,CA,Ventura County,58
+11/24/2020,6111,CA,Ventura County,67.33
+11/23/2020,6111,CA,Ventura County,67.33
+11/22/2020,6111,CA,Ventura County,70
+12/21/2020,6113,CA,Yolo County,88.46
+12/20/2020,6113,CA,Yolo County,88.46
+12/19/2020,6113,CA,Yolo County,88.46
+12/18/2020,6113,CA,Yolo County,78
+12/17/2020,6113,CA,Yolo County,78
+12/16/2020,6113,CA,Yolo County,71
+12/15/2020,6113,CA,Yolo County,78
+12/14/2020,6113,CA,Yolo County,78
+12/13/2020,6113,CA,Yolo County,67.33
+12/12/2020,6113,CA,Yolo County,67.33
+12/11/2020,6113,CA,Yolo County,78
+12/10/2020,6113,CA,Yolo County,67.33
+12/9/2020,6113,CA,Yolo County,63
+12/8/2020,6113,CA,Yolo County,67.33
+12/7/2020,6113,CA,Yolo County,67.33
+12/6/2020,6113,CA,Yolo County,67.33
+12/5/2020,6113,CA,Yolo County,67.33
+12/4/2020,6113,CA,Yolo County,67.33
+12/3/2020,6113,CA,Yolo County,67.33
+12/2/2020,6113,CA,Yolo County,63
+12/1/2020,6113,CA,Yolo County,67.33
+11/30/2020,6113,CA,Yolo County,67.33
+11/29/2020,6113,CA,Yolo County,70
+11/28/2020,6113,CA,Yolo County,67.33
+11/27/2020,6113,CA,Yolo County,67.33
+11/26/2020,6113,CA,Yolo County,67.33
+11/25/2020,6113,CA,Yolo County,63
+11/24/2020,6113,CA,Yolo County,67.33
+11/23/2020,6113,CA,Yolo County,67.33
+11/22/2020,6113,CA,Yolo County,59.33
+12/21/2020,6115,CA,Yuba County,88.46
+12/20/2020,6115,CA,Yuba County,88.46
+12/19/2020,6115,CA,Yuba County,88.46
+12/18/2020,6115,CA,Yuba County,78
+12/17/2020,6115,CA,Yuba County,78
+12/16/2020,6115,CA,Yuba County,81
+12/15/2020,6115,CA,Yuba County,78
+12/14/2020,6115,CA,Yuba County,78
+12/13/2020,6115,CA,Yuba County,80.67
+12/12/2020,6115,CA,Yuba County,80.67
+12/11/2020,6115,CA,Yuba County,78
+12/10/2020,6115,CA,Yuba County,78
+12/9/2020,6115,CA,Yuba County,81
+12/8/2020,6115,CA,Yuba County,78
+12/7/2020,6115,CA,Yuba County,78
+12/6/2020,6115,CA,Yuba County,83.33
+12/5/2020,6115,CA,Yuba County,80.67
+12/4/2020,6115,CA,Yuba County,78
+12/3/2020,6115,CA,Yuba County,78
+12/2/2020,6115,CA,Yuba County,78.5
+12/1/2020,6115,CA,Yuba County,67.33
+11/30/2020,6115,CA,Yuba County,78
+11/29/2020,6115,CA,Yuba County,83.33
+11/28/2020,6115,CA,Yuba County,80.67
+11/27/2020,6115,CA,Yuba County,67.33
+11/26/2020,6115,CA,Yuba County,67.33
+11/25/2020,6115,CA,Yuba County,78.5
+11/24/2020,6115,CA,Yuba County,80.67
+11/23/2020,6115,CA,Yuba County,70
+11/22/2020,6115,CA,Yuba County,76

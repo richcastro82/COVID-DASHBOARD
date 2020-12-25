@@ -125,13 +125,26 @@ def build_upper_right_panel():
                 className="control-row-1",
                 children=[
                     html.Div(
-                        id="state-select-outer-right",
+                        id="state-select-outer",
                         children=[
-                            html.H4("SELECT A METRIC"),
+                            html.Label("SELECT A CLIENT"),
                             dcc.Dropdown(
-                                id="clientin-right", multi=True, searchable=True,
-                                options=[{"label": i, "value": i} for i in metric_list],
-                                value=""
+                                id="clientin",
+                                options=[{"label": i, "value": i} for i in client_list],
+                                value=client_list[3],
+                            ),
+                        ],
+                    ),
+                    html.Div(
+                        id="select-metric-outer",
+                        children=[
+                            html.Label("SELECT A METRIC"),
+                            dcc.Dropdown(
+                                id="metric-select",
+                                  options=[{"label": i, "value": i} for i in metric_list],
+                                  value=metric_list[0],
+                                # options=[{"label": i, "value": i} for i in cost_metric],
+                                # value=cost_metric[0],
                             ),
                         ],
                     ),
@@ -159,7 +172,7 @@ def build_upper_right_panel():
 
 
 
-df123 = pd.read_csv('data/sc.csv')
+
 
 app.layout = html.Div(
     className="container scalable",
@@ -183,7 +196,6 @@ app.layout = html.Div(
                 id="show_data",
                 className='twelve columns',
                 children=[
-                html.Label('Timeline Slider'),
                 dcc.Slider(
                     id='chartin',
                     min=1,
@@ -200,28 +212,6 @@ app.layout = html.Div(
     )
     ],
 )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

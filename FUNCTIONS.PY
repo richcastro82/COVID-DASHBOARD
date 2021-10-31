@@ -8,6 +8,10 @@
 from LIBRARIES import *
 
 #SETTING THE GLOBAL VARIABLES USED FOR THE INITIAL LOADOUT
+
+
+
+# V1 - This version has been renovated to V2 #
 #----------------------------------------------------------------
 #USED THIS HARD CODED CLIENT LIST ON V1 BUT MOVED INTO A VARIBLE SYSTEM.
 #client_list = ['Pepsi', 'Kelloggs']
@@ -16,12 +20,13 @@ from LIBRARIES import *
 #----------------------------------------------------------------
 
 
+
 #CLIENT LOOKUP SYSTEM V2 SEARCHES A CLIENT DIRECTORY TO POPULATE THE CLIENT LIST
-Directory=pd.read_csv('data/client_locations/client_directory2.csv')
+Directory=pd.read_csv('data/client_locations/client_seeding.csv')
 Client_List=[]
 Metrics_List=[]
 Location_List=[]
-Chart_List=['Map', 'Bar', 'Line', 'Scatter']
+Chart_List=[]
 
 for i in Directory.clients:
     Client_List.append('{}'.format(i))
@@ -32,14 +37,29 @@ for i in Directory.metrics:
 for i in Directory.locations:
     Location_List.append('{}'.format(i))
 
-#-----------------------------------------------------------------------------
+for i in Directory.charts:
+    Chart_List.append('{}'.format(i))
 
+
+
+
+#-----------------------------------------------------------------------------
 # CLIENT LOOKUP V3 WILL SEARCH CLIENT FOLDER FOR FILE NAMES AND POPULATE THE CLIENT
 # LIST BASED ON THE FILES IN THE FOLDER
 #
 #-- NEEDS CODING FOR V3 UPDATES
-#
 #--------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+#-----------------------------------------------------------------------------------------------
+#
+#-----------------------------------------------------------------------------------------------
 
 app = dash.Dash(
         __name__,
@@ -84,6 +104,12 @@ mapbox_access_token = "pk.eyJ1Ijoia2luZ2Nhc3RybzgyIiwiYSI6ImNrZWQ5MjduNTBmNG8ycH
 
 
 
+
+
+#-----------------------------------------------------------------------------------------------
+#
+#-----------------------------------------------------------------------------------------------
+
 def building_cards():
     card = dbc.Card(
     [
@@ -105,17 +131,6 @@ def building_cards():
     return card
 
 
-
-
-
-
-
-
-
-
-
-
-
 def build_custom_g():
     return html.Div(
     id='',
@@ -124,8 +139,6 @@ def build_custom_g():
     html.H2('')
     ]
     )
-
-
 
 
 
@@ -409,6 +422,13 @@ app.layout = html.Div(
 
 
 
+
+
+
+
+#-----------------------------------------------------------------------------------------------
+#
+#-----------------------------------------------------------------------------------------------
 
 
 #**********************************************

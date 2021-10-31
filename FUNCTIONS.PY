@@ -192,31 +192,38 @@ def build_gauges():
             html.Div(
                 id='header-box-1',
                 children=[
-
 #                    html.H3('{}'.format(df.score[1])),
-
                     html.Div(
-
-                    id='daily-box-1',
-                    className='StyledDataCard',
-                    children=[
-                    df.iloc[0]['score'],
-                    html.A([df.iloc[0]['score']]),
-                    html.P('Case Rate')
-                    ]),
-
+                        id='daily-box-1',
+                        className='StyledDataCard',
+                        children=[
+                            df.iloc[0]['score'],
+                            html.A([df.iloc[0]['score']]),
+                            html.P('Case Rate')
+                        ]
+                    ),
                     html.Div(
-                    id='daily-box-2',
-                    className='StyledDataCard',
-                    children=[df.iloc[1]['score'], html.A([df.iloc[0]['score']]), html.P('RT')]),
+                        id='daily-box-2',
+                        className='StyledDataCard',
+                        children=[
+                            df.iloc[1]['score'],
+                            html.A([df.iloc[0]['score']]),
+                            html.P('RT')
+                        ]
+                    ),
                     html.Div(
-                    id='daily-box-3',
-                    className='StyledDataCard',
-                    children=[df.iloc[2]['score'], html.A([df.iloc[0]['score']]), html.P('TPR')]),
+                        id='daily-box-3',
+                        className='StyledDataCard',
+                        children=[
+                            df.iloc[2]['score'],
+                            html.A([df.iloc[0]['score']]),
+                            html.P('TPR')
+                        ]
+                    ),
                     html.Div(
-                    id='daily-box-4',
-                    className='StyledDataCard',
-                    children=[df.iloc[3]['score'], html.A([df.iloc[0]['score']]), html.P('Mobility')]),
+                        id='daily-box-4',
+                        className='StyledDataCard',
+                        children=[df.iloc[3]['score'], html.A([df.iloc[0]['score']]), html.P('Mobility')]),
                     ])])
 
 
@@ -225,7 +232,7 @@ def build_gauges():
 
 # THIS IS THE USER INPUT SECTION - THIS IS WHERE IS USER CAN SELECT FROM A
 # LIST OF OPTIONS FOR SORTING AND FILTERING CHART DATA
-def build_upper_left_panel():
+def build_client_select_section():
     return html.Div(
     #LEFT-HEADER
     id="upper-left",
@@ -280,77 +287,46 @@ def build_upper_left_panel():
                         #         ),
                              ],
                          ),
-                dcc.Upload(
-                   id='upload-data',
-                   children=html.Div([
-                       'Drag and Drop or ',
-                       html.A('Select Files')
-                       ]),
-                       style={
-                       'width': '100%',
-                       'height': '60px',
-                       'lineHeight': '60px',
-                       'borderWidth': '1px',
-                       'borderStyle': 'dashed',
-                       'borderRadius': '5px',
-                       'textAlign': 'center',
-                       'margin-top':'30px'
-                       },
-                       # Allow multiple files to be uploaded
-                       multiple=True
+                       html.H4("SELECT A FACILITY TYPE"),
+                       dcc.Dropdown(
+                           id="location_select", searchable=True,
+                           options=[{"label": i, "value": i} for i in Location_List],
+                           value=Location_List[0]
                        ),
+                       html.H4("SELECT A METRIC"),
+                       dcc.Dropdown(
+                           id="metric_select", searchable=True,
+                           options=[{"label": i, "value": i} for i in Metrics_List],
+                           value=Metrics_List[0]
+                       ),
+                       html.H4("CHART TYPE"),
+                       dcc.Dropdown(
+                           id="chart-select", searchable=True,
+                           options=[{"label": i, "value": i} for i in Chart_List],
+                           value=Chart_List[3]
+                       ),
+                       dcc.Upload(
+                          id='upload-data',
+                          children=html.Div([
+                              'Drag and Drop or ',
+                              html.A('Select Files')
+                              ]),
+                              style={
+                              'width': '100%',
+                              'height': '60px',
+                              'lineHeight': '60px',
+                              'borderWidth': '1px',
+                              'borderStyle': 'dashed',
+                              'borderRadius': '5px',
+                              'textAlign': 'center',
+                              'margin-top':'30px'
+                              },
+                              # Allow multiple files to be uploaded
+                              multiple=True
+                              )
 
 
 ],)])],)
-
-
-# THIS IS THE METRIC SELECTION BOX
-def build_upper_right_panel():
-    return html.Div(
-        #LEFT-HEADER
-        id="upper-right",
-        className="six columns",
-        children=[
-            #LEFT-HEADER-TITLE
-            html.H2(
-                className="section-title-right",
-                children="Choose Chart Type",
-            ),
-
-            html.Div(
-                className="control-row-1",
-                children=[
-                    html.Div(
-                        id="state-select-outer-right",
-                        children=[
-
-                            html.H4("SELECT A FACILITY TYPE"),
-                            dcc.Dropdown(
-                                id="location_select", searchable=True,
-                                options=[{"label": i, "value": i} for i in Location_List],
-                                value=Location_List[0]
-                            ),
-                            html.H4("SELECT A METRIC"),
-                            dcc.Dropdown(
-                                id="metric_select", searchable=True,
-                                options=[{"label": i, "value": i} for i in Metrics_List],
-                                value=Metrics_List[0]
-                            ),
-                            html.H4("CHART TYPE"),
-                            dcc.Dropdown(
-                                id="chart-select", searchable=True,
-                                options=[{"label": i, "value": i} for i in Chart_List],
-                                value=Chart_List[3]
-                            ),
-
-
-                        ],
-                    ),
-                ],
-            ),
-
-        ],
-    )
 
 
 
@@ -398,9 +374,9 @@ app.layout = html.Div(
                 id="upper-container",className="row",
                     children=[
                         dbc.CardDeck([
-                        build_upper_left_panel(),
+                        build_client_select_section(),
 #                        build_branding(),
-                        build_upper_right_panel(),])
+                        ])
                         #make_client_table(df1),
                     ],),
 

@@ -130,7 +130,7 @@ H2{font-size: 2rem;
 H4{text-align:left!important;font-size: 1.3rem;}
 
 #region-select-all label, #region-select-all-right label{padding:10px;font-size: 1.1rem;text-transform: uppercase;}
-#upper-container.row{padding-top:30px;height: 350px;}
+#upper-container.row{padding-top:30px;height: 350px;display:flex;}
 #upper-container-right{
   margin:auto;
   margin-bottom:50px;
@@ -170,6 +170,6 @@ background: #fff;
 .tag-card H3{margin:auto;padding:0px;font-size: 2em;color:#555;text-align: center;}
 .tag-card H4{margin:0px;padding:0px;font-size: 1.6em;color:#6c877f;}
 
-
+.card-deck{margin:auto;}
 
 .tagScoreBody{width:1200px;margin:auto;height: 800px;overflow-y: scroll;}

@@ -399,7 +399,7 @@ app.layout = html.Div(
                     children=[
                         dbc.CardDeck([
                         build_upper_left_panel(),
-                        build_branding(),
+#                        build_branding(),
                         build_upper_right_panel(),])
                         #make_client_table(df1),
                     ],),

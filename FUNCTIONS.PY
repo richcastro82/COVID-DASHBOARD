@@ -20,7 +20,8 @@ from LIBRARIES import *
 Directory=pd.read_csv('data/client_locations/client_directory2.csv')
 Client_List=[]
 Metrics_List=[]
-Location_Types=[]
+Location_List=[]
+Chart_List=['Map', 'Bar', 'Line', 'Scatter']
 
 for i in Directory.clients:
     Client_List.append('{}'.format(i))
@@ -28,8 +29,8 @@ for i in Directory.clients:
 for i in Directory.metrics:
     Metrics_List.append('{}'.format(i))
 
-for i in Directory.locationTypes:
-    Location_Types.append('{}'.format(i))
+for i in Directory.locations:
+    Location_List.append('{}'.format(i))
 
 #-----------------------------------------------------------------------------
 
@@ -80,8 +81,88 @@ mapbox_access_token = "pk.eyJ1Ijoia2luZ2Nhc3RybzgyIiwiYSI6ImNrZWQ5MjduNTBmNG8ycH
 
 # THIS IS THE TOP HEADER SECTION: THIS SECTION WILL BE USED TO BRAND THE PAGE FOR THE CLIENT
 # CLIENT LOGO AND NAME WILL CHANGE IN THIS SECTION DEPENDING ON THE CLIENT
+
+
+
+def building_cards():
+    card = dbc.Card(
+    [
+        dbc.CardImg(src="/IMAGES/dash-panel.png", top=True),
+        dbc.CardBody(
+            [
+                html.H4("Card title", className="card-title"),
+                html.P(
+                    "Some quick example text to build on the card title and "
+                    "make up the bulk of the card's content.",
+                    className="card-text",
+                ),
+                dbc.Button("Go somewhere", color="primary"),
+            ]
+        ),
+    ],
+    style={"width": "18rem"},
+    )
+    return card
+
+
+
+
+
+
+
+
+
+
+
+
+
+def build_custom_g():
+    return html.Div(
+    id='',
+    className='',
+    children=[
+    html.H2('')
+    ]
+    )
+
+
+
+
+
+
+Client_Select=Client_List[1]
+
 def build_branding():
-    return html.Div()
+    return html.Div(
+        id='brandingHeader',
+        className='brandingHeaderStyle',
+        children=[
+            html.Div(
+            className='branding-left',
+            children=[
+                html.H2('logo goes here for {}'.format(Client_Select)),
+                html.H2('Matrix Dashboard for {}'.format(Client_Select))]),
+
+                html.Div(
+
+                    className='client_deets',
+                    children=[
+                        html.P('Total Employees Tested: {}'.format(Chart_List[1]))]),
+                        html.Div(
+                        className='client_deets',
+                        children=[
+                            html.P('Total Employees Negative: {}'.format(Chart_List[1]))]),
+                            html.Div(
+                                className='client_deets',
+                                children=[html.P('Total Employees Positive: {}'.format(Chart_List[1]))]),
+                                html.Div(
+                                    className='client_deets',
+                                    children=[
+                                        html.P('Total Employees Culmaliative: {}'.format(Chart_List[1]))]),
+                                        ]
+                                        )
+
+
 
 
 # GAUGE SECTION - THIS IS THE SECTION THAT SHOWS THE CURRENT COVID STATS FOR THE NATION
@@ -97,22 +178,31 @@ def build_gauges():
 #                    html.H3('{}'.format(df.score[1])),
 
                     html.Div(
+
                     id='daily-box-1',
-                    class='StyledDataCard',
-                    children=[df.iloc[0]['score'], html.P('Case Rate'), html.A([df.iloc[0]['score']])]),
+                    className='StyledDataCard',
+                    children=[
+                    df.iloc[0]['score'],
+                    html.A([df.iloc[0]['score']]),
+                    html.P('Case Rate')
+                    ]),
+
                     html.Div(
                     id='daily-box-2',
-                    class='StyledDataCard',
-                    children=[df.iloc[1]['score'], html.P('RT'), html.A([df.iloc[0]['score']])]),
+                    className='StyledDataCard',
+                    children=[df.iloc[1]['score'], html.A([df.iloc[0]['score']]), html.P('RT')]),
                     html.Div(
                     id='daily-box-3',
-                    class='StyledDataCard',
-                    children=[df.iloc[2]['score'], html.P('TPR'), html.A([df.iloc[0]['score']])]),
+                    className='StyledDataCard',
+                    children=[df.iloc[2]['score'], html.A([df.iloc[0]['score']]), html.P('TPR')]),
                     html.Div(
                     id='daily-box-4',
-                    class='StyledDataCard',
-                    children=[df.iloc[3]['score'], html.P('Mobility'), html.A([df.iloc[0]['score']])]),
+                    className='StyledDataCard',
+                    children=[df.iloc[3]['score'], html.A([df.iloc[0]['score']]), html.P('Mobility')]),
                     ])])
+
+
+
 
 
 # THIS IS THE USER INPUT SECTION - THIS IS WHERE IS USER CAN SELECT FROM A
@@ -124,6 +214,7 @@ def build_upper_left_panel():
     className="six columns",
     children=[
         #LEFT-HEADER-TITLE
+        dbc.Card([
         html.H2(
             className="section-title",
             children="Choose Location Data",
@@ -139,10 +230,38 @@ def build_upper_left_panel():
                         dcc.Dropdown(
                             id="Client_Select",
                             options=[{"label": i, "value": i} for i in Client_List],
-                            value=Client_List[0],
+                            value=Client_List[1],
                         ),
                     ],
                 ),
+                    html.Div(
+                        id="dateSelect",
+                        children=[
+                            #DATE RANGE
+                            dcc.DatePickerRange(
+                                id='my-date-picker-range',
+                                min_date_allowed=date(2020, 4, 15),
+                                max_date_allowed=date(2020, 12, 31),
+                                initial_visible_month=date(2020, 12, 15),
+                                start_date=date(2020,12,1),
+                                end_date=date(2020,12,25)
+                                ),
+                        ]),
+                         html.Div(
+                             id="region-select-outer-right",
+                             className="control-row-2",
+                             children=[
+                                # html.Label("Filter Facility Locations"),
+                            #     html.Div(
+                            #         id="location_select-div",
+                            #         children=dcc.Checklist(
+                            #             id="location_select",
+                            #             options=[{"label":i, "value": i} for i in Location_List],
+                        #                 value=[Location_List[0]],
+                        #             ),
+                        #         ),
+                             ],
+                         ),
                 dcc.Upload(
                    id='upload-data',
                    children=html.Div([
@@ -161,7 +280,10 @@ def build_upper_left_panel():
                        },
                        # Allow multiple files to be uploaded
                        multiple=True
-),],)],)
+                       ),
+
+
+],)])],)
 
 
 # THIS IS THE METRIC SELECTION BOX
@@ -184,32 +306,31 @@ def build_upper_right_panel():
                         id="state-select-outer-right",
                         children=[
 
+                            html.H4("SELECT A FACILITY TYPE"),
+                            dcc.Dropdown(
+                                id="location_select", searchable=True,
+                                options=[{"label": i, "value": i} for i in Location_List],
+                                value=Location_List[0]
+                            ),
                             html.H4("SELECT A METRIC"),
                             dcc.Dropdown(
-                                id="clientin-right", multi=True, searchable=True,
+                                id="metric_select", searchable=True,
                                 options=[{"label": i, "value": i} for i in Metrics_List],
-                                value=""
+                                value=Metrics_List[0]
                             ),
+                            html.H4("CHART TYPE"),
+                            dcc.Dropdown(
+                                id="chart-select", searchable=True,
+                                options=[{"label": i, "value": i} for i in Chart_List],
+                                value=Chart_List[3]
+                            ),
+
+
                         ],
                     ),
                 ],
             ),
 
-             html.Div(
-                 id="region-select-outer-right",
-                 className="control-row-2",
-                 children=[
-                    # html.Label("Filter Facility Locations"),
-                     html.Div(
-                         id="checklist-container-right",
-                         children=dcc.Checklist(
-                             id="region-select-all-right",
-                             options=[{"label":i, "value": i} for i in Locations_List],
-                             value=[Locations_List[0]],
-                         ),
-                     ),
-                 ],
-             )
         ],
     )
 
@@ -218,14 +339,17 @@ def build_upper_right_panel():
 #=========================================================================================
 # THIS SECTION IS FOR THE TABLE THAT DISPLAYS TO DATA UNDER THE CHART
 # READ IN A CLIENT LOCATION FILE BASED ON THE USER INPUT
-Client_File=pd.read_csv('data/client_locations/{}.csv'.format(Client_Select.value))
-df=Client_File.drop(['fips', 'country', 'lat', 'long'], axis=1)
+#Client_Select=Client_List[1]
+#Client_File=pd.read_csv('data/client_locations/{}.csv'.format(Client_Select.value))
+#df=Client_File.drop(['fips', 'country', 'lat', 'long'], axis=1)
 
 
-#df = pd.read_csv('data/client_locations/kelloggs.csv')
-#df1=df
-#df1.drop(['fips', 'country', 'lat', 'long'], axis=1, inplace=True)
+tableCall=()
+df = pd.read_csv('data/client_locations/{}.csv'.format(Client_List[0]))
+df1=df
+df1.drop(['fips', 'country', 'lat', 'long'], axis=1, inplace=True)
 #==========================================================================================
+
 
 
 
@@ -236,40 +360,21 @@ app.layout = html.Div(
     className="container scalable",
     children=[
             # CLIENT BRANDING ON THE HTML
-            html.Div(
-            id='build-branding',children=[build_branding()]),
             # DAILY GUAGES ON THE HTML
-            html.Div(
-            id='build-guages',children=[build_guages()]),
             #USER INPUT SECTIOIN - HTML SIDE
             html.Div(
                 id="upper-container",className="row",
                     children=[
-                        #LOCATION DATA
+                        dbc.CardDeck([
                         build_upper_left_panel(),
-                        #METRIC DATA
-                        build_upper_right_panel(),
-                        html.Div(
-                            id="dateSelect",
-                            children=[
-                                #DATE RANGE
-                                dcc.DatePickerRange(
-                                    id='my-date-picker-range',
-                                    min_date_allowed=date(2020, 4, 15),
-                                    max_date_allowed=date(2020, 12, 31),
-                                    initial_visible_month=date(2020, 12, 15),
-                                    start_date=date(2020,12,1),
-                                    end_date=date(2020,12,25)
-                                    ),
-                            ]),
+                        build_branding(),
+                        build_upper_right_panel(),])
                         #make_client_table(df1),
-                    ],
-            ),
+                    ],),
 
-
-
-
-
+            build_gauges(),
+            build_custom_g(),
+            building_cards(),
 
 
 #OUTPUT HTML SECTION
@@ -296,7 +401,7 @@ app.layout = html.Div(
                 dash_table.DataTable(
                     id='table',
                     columns=[{"name": i, "id": i} for i in df1.columns],
-                    data=df1.to_dict('records'),
+                    data=(df1.to_dict('records')),
         )
     ])
 ],)
@@ -307,43 +412,39 @@ app.layout = html.Div(
 
 
 #**********************************************
-#@app.callback(
-#Output(component_id='tput', component_property='children'),
-#[Input(component_id='inpt', component_property='value')]
-#)
-#def update_t(input_data):
-#    return file
+@app.callback(
+Output(component_id='tput', component_property='children'),
+[Input(component_id='inpt', component_property='value')]
+)
+def update_t(input_data):
+    return file
 
 #************************************************
-
 @app.callback(
 Output(component_id='Client_Output', component_property='figure'),
-[Input(component_id='Client_Select', component_property='value')]
+[Input(component_id='Client_Select', component_property='value'),
+Input(component_id='location_select', component_property='value'),
+Input(component_id='metric_select', component_property='value'),]
 )
-def buildchart(chart_data):
+
+def buildchart(chart_data, loc_data, met_data):
     date_me="12/21/2020"
-    #client_stuff=pd.read_csv('data/clients/kelloggs12.csv')
     file=pd.read_csv('DATA/Client_Locations/{}.csv'.format(chart_data))
-    client_stuff=file
-    #file = pd.read_csv('data/clients/kelloggs12.csv')
-    #client_stuff=file[file['date']=='12/21/2020']
-    #client_stuff=file[file['fips']== 1005]
-
-    #client_stuff=client_stuff.sort_values(by=['score'], ascending=False)
-
-    #client_stuff=client_stuff.head(15)
+    location=loc_data
+    metric=met_data
+    chart_data=chart_data
+    client_stuff=file[file['locations']=='{}'.format(location)]
+    client_stuff= client_stuff[client_stuff['metrics']=='{}'.format(metric)]
 
     figchart = px.scatter(
-        client_stuff,
-        #min=1,
-        #max=100,
-        color="score",
-        size="pop",
-        hover_data=['county','state'],
-        x='county',
-        y='employeeCount',
-        title="TAG Dash for {} Facility Locations for {}".format(chart_data, date_me),
-        #range_y=[40,100],
+            client_stuff,
+            #min=1,#max=100,#range_y=[40,100],
+            color="score",
+            size="pop",
+            hover_data=['county','state'],
+            x='fips',
+            y='score',
+            title="TAG Dash for {} Facility Locations for {}".format(chart_data, date_me),
         )
 
     return figchart

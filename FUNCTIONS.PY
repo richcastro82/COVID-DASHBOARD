@@ -4,12 +4,10 @@
 # OCTOBER 02, 2020 - REVISED CODE
 # DECEMBER 23RD, 2020 - FINAL CODING CRUNCH BEFORE LAUNCH
 
-#IMPORTING MY LIBRARIES
+# IMPORTING MY LIBRARIES
 from LIBRARIES import *
 
 #SETTING THE GLOBAL VARIABLES USED FOR THE INITIAL LOADOUT
-
-
 
 # V1 - This version has been renovated to V2 #
 #----------------------------------------------------------------
@@ -18,8 +16,6 @@ from LIBRARIES import *
 #Metrics_List = ['CASES', 'DEATHS', 'ACTIVE', 'RT', 'CR', 'MOB', 'TPR']
 #location_types=['plant', 'facilities', 'processing', 'administrative']
 #----------------------------------------------------------------
-
-
 
 #CLIENT LOOKUP SYSTEM V2 SEARCHES A CLIENT DIRECTORY TO POPULATE THE CLIENT LIST
 Directory=pd.read_csv('data/client_locations/client_seeding.csv')
@@ -76,14 +72,15 @@ app.config["suppress_callback_exceptions"] = True
 mapbox_access_token = "pk.eyJ1Ijoia2luZ2Nhc3RybzgyIiwiYSI6ImNrZWQ5MjduNTBmNG8ycHM0YjV4NnM5ejEifQ.1GWNK066IM01BBQ-9vDluw"
 
 
+
+
+
+################################################################################
 #PATH = pathlib.Path(__file__).parent
 #DATA_PATH = PATH.joinpath("DATA/Client_Locations/").resolve()
 #df_PEPSI = pd.read_csv(DATA_PATH.joinpath("pepsi.csv"))
 #df_KELLOGGS = pd.read_csv(DATA_PATH.joinpath("KELLOGGS.csv"))
 #df_AW = pd.read_csv(DATA_PATH.joinpath("A&W.csv"))
-
-
-
 
 
 #df1 = pd.read_csv('data/client_locations/kelloggs.csv')
@@ -97,53 +94,61 @@ mapbox_access_token = "pk.eyJ1Ijoia2luZ2Nhc3RybzgyIiwiYSI6ImNrZWQ5MjduNTBmNG8ycH
 #            table.append(html.Tr(html_row))
 #    return table
 
-
-
 # THIS IS THE TOP HEADER SECTION: THIS SECTION WILL BE USED TO BRAND THE PAGE FOR THE CLIENT
 # CLIENT LOGO AND NAME WILL CHANGE IN THIS SECTION DEPENDING ON THE CLIENT
+################################################################################
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 
 #-----------------------------------------------------------------------------------------------
-#
+# Defining funcitons of the application
 #-----------------------------------------------------------------------------------------------
-
-def building_cards():
-    card = dbc.Card(
-    [
-        dbc.CardImg(src="/IMAGES/dash-panel.png", top=True),
-        dbc.CardBody(
-            [
-                html.H4("Card title", className="card-title"),
-                html.P(
-                    "Some quick example text to build on the card title and "
-                    "make up the bulk of the card's content.",
-                    className="card-text",
-                ),
-                dbc.Button("Go somewhere", color="primary"),
-            ]
-        ),
-    ],
-    style={"width": "18rem"},
-    )
-    return card
+# def building_cards():
+#     card = dbc.Card(
+#     [
+#         dbc.CardImg(src="/IMAGES/dash-panel.png", top=True),
+#         dbc.CardBody(
+#             [
+#                 html.H4("Card title", className="card-title"),
+#                 html.P(
+#                     "Some quick example text to build on the card title and "
+#                     "make up the bulk of the card's content.",
+#                     className="card-text",
+#                 ),
+#                 dbc.Button("Go somewhere", color="primary"),
+#             ]
+#         ),
+#     ],
+#     style={"width": "18rem"},
+#     )
+#     return card
 
 
 def build_custom_g():
     return html.Div(
-    id='',
-    className='',
-    children=[
-    html.H2('')
-    ]
+        id='',
+        className='',
+        children=[
+            html.H2('')
+        ]
     )
 
 
-
-
 Client_Select=Client_List[1]
+
+
 
 def build_branding():
     return html.Div(
@@ -154,26 +159,26 @@ def build_branding():
             className='branding-left',
             children=[
                 html.H2('logo goes here for {}'.format(Client_Select)),
-                html.H2('Matrix Dashboard for {}'.format(Client_Select))]),
-
-                html.Div(
-
+                html.H2('Matrix Dashboard for {}'.format(Client_Select))
+                ]
+            ),
+            html.Div(
+                className='client_deets',
+                children=[
+                    html.P('Total Employees Tested: {}'.format(Chart_List[1]))]),
+                    html.Div(
                     className='client_deets',
                     children=[
-                        html.P('Total Employees Tested: {}'.format(Chart_List[1]))]),
+                        html.P('Total Employees Negative: {}'.format(Chart_List[1]))]),
                         html.Div(
                         className='client_deets',
+                        children=[html.P('Total Employees Positive: {}'.format(Chart_List[1]))]),
+                    html.Div(
+                        className='client_deets',
                         children=[
-                            html.P('Total Employees Negative: {}'.format(Chart_List[1]))]),
-                            html.Div(
-                                className='client_deets',
-                                children=[html.P('Total Employees Positive: {}'.format(Chart_List[1]))]),
-                                html.Div(
-                                    className='client_deets',
-                                    children=[
-                                        html.P('Total Employees Culmaliative: {}'.format(Chart_List[1]))]),
-                                        ]
-                                        )
+                            html.P('Total Employees Culmaliative: {}'.format(Chart_List[1]))]),
+        ]
+    )
 
 
 
@@ -366,6 +371,20 @@ df1.drop(['fips', 'country', 'lat', 'long'], axis=1, inplace=True)
 
 
 
+
+
+
+
+
+
+
+
+
+
+#-----------------------------------------------------------------------------------------------
+#   THE LAYOUT SECTION
+#-----------------------------------------------------------------------------------------------
+
 #==================================================================
 #========== HTML & CSS CODE ====================================
 #==========================================================
@@ -387,7 +406,7 @@ app.layout = html.Div(
 
             build_gauges(),
             build_custom_g(),
-            building_cards(),
+#            building_cards(),
 
 
 #OUTPUT HTML SECTION
@@ -425,21 +444,20 @@ app.layout = html.Div(
 
 
 
-
 #-----------------------------------------------------------------------------------------------
-#
+#   THE CALLBACK SECTION
 #-----------------------------------------------------------------------------------------------
 
-
-#**********************************************
+#*******************************************************************
 @app.callback(
 Output(component_id='tput', component_property='children'),
 [Input(component_id='inpt', component_property='value')]
 )
 def update_t(input_data):
     return file
+#*******************************************************************
 
-#************************************************
+#******************************************************************
 @app.callback(
 Output(component_id='Client_Output', component_property='figure'),
 [Input(component_id='Client_Select', component_property='value'),
@@ -453,11 +471,12 @@ def buildchart(chart_data, loc_data, met_data):
     location=loc_data
     metric=met_data
     chart_data=chart_data
-    client_stuff=file[file['locations']=='{}'.format(location)]
-    client_stuff= client_stuff[client_stuff['metrics']=='{}'.format(metric)]
+    #client_stuff=file[file['locations']=='{}'.format(location)]
+    #client_stuff= client_stuff[client_stuff['metrics']=='{}'.format(metric)]
 
     figchart = px.scatter(
-            client_stuff,
+            #client_stuff,
+            file,
             #min=1,#max=100,#range_y=[40,100],
             color="score",
             size="pop",
@@ -468,3 +487,8 @@ def buildchart(chart_data, loc_data, met_data):
         )
 
     return figchart
+#****************************************************************
+# @app.callback(
+# Output(component_id='', component_property=''),
+# [Input(component_id='', component_property='')]
+# )

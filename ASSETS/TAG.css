@@ -130,7 +130,7 @@ H2{font-size: 2rem;
 H4{text-align:left!important;font-size: 1.3rem;}
 
 #region-select-all label, #region-select-all-right label{padding:10px;font-size: 1.1rem;text-transform: uppercase;}
-#upper-container.row{padding-top:30px;height: 350px;display:flex;}
+#upper-container.row{padding-top:30px;display:flex;}
 #upper-container-right{
   margin:auto;
   margin-bottom:50px;

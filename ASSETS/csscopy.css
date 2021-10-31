@@ -1,0 +1,85 @@
+html{font-family: monospace;}
+
+
+
+
+#header-box-1{
+  text-align: center;
+  height: 200px;
+
+}
+
+#header-box-1 A{
+  font-size: 1.2rem;
+  color:#973333;
+}
+#header-box-1 p{
+  font-size: 2.4rem;
+  padding:0px;
+  margin:0px;
+}
+
+
+#header-box-1 div{
+  width:15%;
+  height: 100px;
+  background: #f5f5f5;
+  display:inline-block;
+  border: 2px solid #fcb100;
+  color:#6c877f;
+  font-size: 2.2rem;
+  margin: 0px 20px;
+  vertical-align: middle;
+}
+
+#upper-left{
+  float:left;
+  width:48%%;
+  margin-right:40px;
+  background: #6c877f;
+  padding:40px 25px 20px 15px;
+  border-radius: 10px;
+  border:2px solid #fcb100;
+}
+#upper-left H4, #upper-left H2, #upper-right H2, #upper-right H4{color: #333;margin:auto;text-align: center;}
+
+#dateSelect{background:#888;border:2px solid #fcb100;display:inline-block;margin:20px;}
+
+#dragBox{margin:0px;padding:0px;}
+.tag_hightlight{color:#973333;}
+.my-date-picker-range{}
+
+#upper-right{
+  float:left;
+  width:48%;
+
+  background: #6c877f;
+  padding:40px 25px 20px 15px;
+  border-radius: 10px;
+  border:2px solid #fcb100;
+}
+
+H2{font-size: 2rem;
+  padding-bottom:20px;text-transform: uppercase;}
+
+H4{text-align:left!important;font-size: 1.3rem;}
+
+#region-select-all label, #region-select-all-right label{padding:10px;font-size: 1.1rem;text-transform: uppercase;}
+#upper-container.row{padding-top:30px;}
+#upper-container-right{
+  margin:auto;
+  margin-bottom:50px;
+}
+
+#checklist-container, #checklist-container-right{font-size: 1.2rem;margin-top:20px;margin-bottom:20px;width:420px;}
+#checklist-container label, #checklist-container-right label{margin-right:10px;margin-top:20px;}
+
+
+#show_data{
+background: #fff;
+}
+
+body{width:1200px;margin:auto;background: #6c877f;}
+
+.container.scalable{background: #ccc;}
+#chartout{background: #fff;}

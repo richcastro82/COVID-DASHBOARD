@@ -1,6 +1,68 @@
 html{font-family: monospace;}
+.right{float:right;}
+.left{float:left;}
+body{margin:auto;background:#c8c8c8;}
+.tagf{background:#6c877f;border:2px solid #fcb100;color:#fff;}
+.tagf H4{font-size: 1em!important;}
+.row{margin-bottom:30px;}
+#main-container{width:100%!important;}
+#inner-container{max-width:1400px;margin:auto;margin-top:30px;}
+#topper{background: #fff;height: 48px;}
+#topperInner H2{float:left;margin-left:100px;margin-top:14px;line-height:24px;color:#555}
+#topperInner P{float:right;margin-top:14px;}
+.topperImage{width:100px;float:left;}
+#topperInner{width:1400px;margin:auto;}
+.Fl{color:#555555;float:left;font-size:1.6em;}
+.FlH{color:#973333;float:left;margin-left:4px;font-size:1.6em;}
+.card-header{border-bottom:2px solid #fcb100;}
+.card-body{text-align: center;}
+H4.card-title{text-align:center!important;font-size: 3em;padding:10px 0px;}
+P.card-text{color:#973333;font-size: 1.2em;}
+#stateChartPara{font-size: 1em;font-family: monospace;}
+#tagChart1 .card-header .ttt{text-align:center!important;margin:auto!important;}
+/* MAIN DBC CARD CONTAINER */
+.tag-score-card{
+float:left;
+}
+/* CARD STYLE */
+
+/* CARD HEADER */
+.tag-card H2,.tag-card H3,.tag-card H4{text-align: center;margin:auto;padding:0px;}
+.tag-card H4{}
+
+/*
+.mainCards{float:left;}
+.card{float:left;margin:20px;}
+.card .card-header, .card .card-footer{background:#6c877f;text-transform: uppercase;text-align: center;font-size: 2em;font-weight: 500;color:#973333;}
+.card .card-footer{color:#333333;background:#6c877f;}
+.card-title, .card-text{text-align: center!important;}
+.card-title{font-size: 3em!important;margin:auto;margin-top:20px;}
+.card-text{font-size: 1.4em!important;}
+*/
 
 
+.topper{
+  width:100%;
+  height: 60px;
+}
+.topper .card-body h4, .topper .card-body p{float:left!important;margin:0px!important;margin-left:30px!important;}
+
+#tag-card-id{
+  background-image:url("dash-panel.PNG");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  width:360px;
+  height:200px;
+}
+
+
+div#header-box-1{padding-top:60px;}
+.StyledDataCard{
+  padding:30px 20px;
+  width:12%;}
+
+#upper-left{margin-left:20px!important;margin-right:20px!important;}
 
 
 #header-box-1{
@@ -23,7 +85,10 @@ html{font-family: monospace;}
 #header-box-1 div{
   width:15%;
   height: 100px;
-  background: #f5f5f5;
+  background-image: url("/assets/logo.PNG");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:none;
   display:inline-block;
   border: 2px solid #fcb100;
   color:#6c877f;
@@ -34,7 +99,7 @@ html{font-family: monospace;}
 
 #upper-left{
   float:left;
-  width:48%%;
+  margin-left:30px;
   margin-right:40px;
   background: #6c877f;
   padding:40px 25px 20px 15px;
@@ -51,7 +116,7 @@ html{font-family: monospace;}
 
 #upper-right{
   float:left;
-  width:48%;
+
 
   background: #6c877f;
   padding:40px 25px 20px 15px;
@@ -65,7 +130,7 @@ H2{font-size: 2rem;
 H4{text-align:left!important;font-size: 1.3rem;}
 
 #region-select-all label, #region-select-all-right label{padding:10px;font-size: 1.1rem;text-transform: uppercase;}
-#upper-container.row{padding-top:30px;}
+#upper-container.row{padding-top:30px;height: 350px;}
 #upper-container-right{
   margin:auto;
   margin-bottom:50px;
@@ -79,7 +144,32 @@ H4{text-align:left!important;font-size: 1.3rem;}
 background: #fff;
 }
 
-body{width:1200px;margin:auto;background: #6c877f;}
 
 .container.scalable{background: #ccc;}
 #chartout{background: #fff;}
+
+
+
+#brandingHeader.brandingHeaderStyle{background: #6c877f; border:2px solid #fcb100;position: relative;height: 300px;border-radius: 10px; color:#333; padding:0px 20px;width:30%;margin-right:30px;float: left;}
+#branding-left{}
+.brandingHeaderStyle #branding-left H2{}
+
+
+
+
+
+.tag-card{}
+#tag-card-id #card-top{margin-top:20px;margin-bottom:24px;}
+#tag-card-id #card-left{float:left;display:block;width:120px;padding-left:20px;overflow: hidden;}
+#tag-card-id #card-left.tag-card h4{line-height: 1.3em;}
+#tag-card-id #card-right{float:left;display:block;overflow: hidden;width:110px;padding-right:10px;}
+#tag-card-id #card-right.tag-card h4{padding-right:4px;text-align:right!important;line-height: 1.3em;}
+#tag-card-id #card-center{float:left;display: block;width:90px;}
+#tag-card-id #card-bottom{bottom:-20px;position: relative;}
+.tag-card H2{margin:auto;padding:0px;font-size: 2.2em;color:#973333;}
+.tag-card H3{margin:auto;padding:0px;font-size: 2em;color:#555;text-align: center;}
+.tag-card H4{margin:0px;padding:0px;font-size: 1.6em;color:#6c877f;}
+
+
+
+.tagScoreBody{width:1200px;margin:auto;height: 800px;overflow-y: scroll;}

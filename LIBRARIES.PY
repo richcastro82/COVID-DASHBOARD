@@ -1,6 +1,5 @@
 #RICHARD CASTRO
 #THIS IS MY LIBRARY IMPORT FILE
-#all dependencies are found in this file
 
 #Base Libraries
 import os
